@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
   "DialogueDictionary": {
     // ghost npcs
-    "The Scientist": "The Scientist",
+    "The Scientist": "窮理人",
     "Cypress": "Cypress",
     "Pine": "Pine",
     "Arcadia": "Arcadia",
@@ -981,31 +981,31 @@
     "IXORA: Well, if you say so. Initiating warp!": "IXORA: Well, if you say so. Initiating warp!",
 
     //SlateNEW
-    "I saw some messed up things, Slate! An alien species landed on Timber Hearth and ate our primitive ancestors! The aliens then took off for Dark Bramble before it overgrew.": "I saw some messed up things, Slate! An alien species landed on Timber Hearth and ate our primitive ancestors! The aliens then took off for Dark Bramble before it overgrew.",
-    "Son of a Beachum! That makes me sick to my stomach, I'll never eat fish again!": "Son of a Beachum! That makes me sick to my stomach, I'll never eat fish again!",
-    "If I were as courageous as you, I'd go to Dark Bramble and see if they left anything behind.": "If I were as courageous as you, I'd go to Dark Bramble and see if they left anything behind.",
-    "...was that...": "...was that...",
-    "...but you didn't even...": "...but you didn't even...",
-    "H-Hatchling...": "H-Hatchling...",
-    "The Nomai....The Eye...this new bird species...": "The Nomai....The Eye...this new bird species...",
-    "It all makes sense now! I am going to tell Hornfels Right away!": "It all makes sense now! I am going to tell Hornfels Right away!",
-    "...but I have to finish my lunch first. I'm starving!": "...but I have to finish my lunch first. I'm starving!",
-    "Don't bother me right now! I have a lot to think about. Plus, I'm on lunch for another 30 minutes.": "Don't bother me right now! I have a lot to think about. Plus, I'm on lunch for another 30 minutes.",
+    "I saw some messed up things, Slate! An alien species landed on Timber Hearth and ate our primitive ancestors! The aliens then took off for Dark Bramble before it overgrew.": "ひどいものだったよ、Slate！異種族が木の炉辺にやってきて、私たちの大昔の祖先を食べてたんだ！その後、彼らは大きく成長する前の闇のイバラへ飛び立っていった。",
+    "Son of a Beachum! That makes me sick to my stomach, I'll never eat fish again!": "なんてこった！吐き気がしてきた、もう二度と魚など食べないぞ！",
+    "If I were as courageous as you, I'd go to Dark Bramble and see if they left anything behind.": "もし私にお前と同じくらい勇気があったなら、闇のイバラへ何か残ってないか見に行くだろうな。",
+    "...was that...": "…それは…",
+    "...but you didn't even...": "…だがお前は…",
+    "H-Hatchling...": "ひ、ひよっ子…",
+    "The Nomai....The Eye...this new bird species...": "Nomai…眼…新たな鳥の種族…&lt;i&gt;&lt;/i&gt;",
+    "It all makes sense now! I am going to tell Hornfels Right away!": "何もかもわかったぞ！今すぐHornfelsに伝えなくては！",
+    "...but I have to finish my lunch first. I'm starving!": "…だがまずは昼飯を終わらせなくては。腹が空いてる！&lt;i&gt;&lt;/i&gt;",
+    "Don't bother me right now! I have a lot to think about. Plus, I'm on lunch for another 30 minutes.": "今は邪魔しないでくれ！考えたいことが山ほどあるんだ。それに、あと30分は昼飯タイムだ。&lt;i&gt;&lt;/i&gt;",
 
     //SlateRemote
-    "Hey Hatch! I was walking past the waterfall just now and I heard some odd frequency I've never heard before. Think you can check it out?": "Hey Hatch! I was walking past the waterfall just now and I heard some odd frequency I've never heard before. Think you can check it out?",
-    "I'm on it, Slate!": "I'm on it, Slate!",
-    "Absolutely not! I've been done with exploring ever since I got my neck snapped by an owl creature!": "Absolutely not! I've been done with exploring ever since I got my neck snapped by an owl creature!",
-    "By the waterfall? How hasn't anyone found it yet?": "By the waterfall? How hasn't anyone found it yet?",
-    "Thank you, Hatchling! Let me know what you find!": "Thank you, Hatchling! Let me know what you find!",
-    "Uh....what? I have no idea what you just said but you have no need to take it out on me!": "Uh....what? I have no idea what you just said but you have no need to take it out on me!",
-    "Nevermind I'll find it.": "Nevermind I'll find it.",
-    "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?"
+    "Hey Hatch! I was walking past the waterfall just now and I heard some odd frequency I've never heard before. Think you can check it out?": "おいひよっ子！ついさっき滝のそばを歩いてたら今まで聞いたことのない奇妙な周波数が聞こえた。ちょっと見てきてくれないか？&lt;i&gt;&lt;/i&gt;",
+    "I'm on it, Slate!": "任せて、Slate！",
+    "Absolutely not! I've been done with exploring ever since I got my neck snapped by an owl creature!": "絶対に嫌だ！フクロウ星人に首を折られて以来もう探検はやめたんだ！&lt;i&gt;&lt;/i&gt;",
+    "By the waterfall? How hasn't anyone found it yet?": "滝のそば？どうして誰もまだ見つけてないんだ？&lt;i&gt;&lt;/i&gt;",
+    "Thank you, Hatchling! Let me know what you find!": "ありがとうひよっ子！何か見つけたら教えてくれ！&lt;i&gt;&lt;/i&gt;",
+    "Uh....what? I have no idea what you just said but you have no need to take it out on me!": "え…何だ？お前が今なんて言ったのかまったくわからないが、私にやつあたりしないでくれ！&lt;i&gt;&lt;/i&gt;",
+    "Nevermind I'll find it.": "気にしないで。見つけてくるよ。",
+    "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "滝の音の方が大きいのと関係がありそうだし、それに昨日はお前の冒険のためにシグナルスコープをアップグレードしたばかりだ。それで、私のために見つけてきてくれないか、ひよっ子？&lt;i&gt;&lt;/i&gt;"
   },
 
   "ShipLogDictionary": {
     //anglerseye
-    "Angler's Eye": "Angler's Eye",
+    "Angler's Eye": "アンコウの眼",
     "UFO Destination": "UFO Destination",
     "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.": "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.",
     "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.": "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.",
