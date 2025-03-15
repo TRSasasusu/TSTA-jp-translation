@@ -54,22 +54,22 @@
     "Apparently, it has been discovered that the only way to stop the growth of the plant is through use of the minerals found all over this moon. However, it can have side effects to the pocket dimensions it connects to, eliminating all light within. The anglerfish also seem to act different.": "どうやらこの植物の成長を止める唯一の方法は、この月のあらゆる場所で見つかる鉱物を使うことのようだと判明した。しかし、その植物が繋がる空間に副作用が生じ、内部の光がすべて消失する。アンコウも通常とは異なる行動をとるようだ。&lt;i&gt;&lt;/i&gt;",
 
     //Elevator
-    "Elevator to Observation Deck": "Elevator to Observation Deck",
+    "Elevator to Observation Deck": "展望台へのエレベータ",
 
     //Table1
-    "OBSERVATION 1: Getting a closer look at all the planets, there's water on every planet, the third having it in the form of snow on its surface. The desert twins have water and sand flowing between them like an hourglass, but it won't be too long until the water on the sand-like planet starts to evaporate.": "OBSERVATION 1: Getting a closer look at all the planets, there's water on every planet, the third having it in the form of snow on its surface. The desert twins have water and sand flowing between them like an hourglass, but it won't be too long until the water on the sand-like planet starts to evaporate.",
+    "OBSERVATION 1: Getting a closer look at all the planets, there's water on every planet, the third having it in the form of snow on its surface. The desert twins have water and sand flowing between them like an hourglass, but it won't be too long until the water on the sand-like planet starts to evaporate.": "観察1:すべての惑星をよく見るとどの惑星にも水があり、第3惑星の表面には雪の状態で存在する。砂漠の双子星はその間を砂時計のように水と砂が流れているが、砂のような惑星の水が蒸発し始めるまでそう長くはかからないだろう。&lt;i&gt;&lt;/i&gt;",
 
     //Table2
-    "OBSERVATION 2: A ghostly moon with a similar atmosphere as this moon changes its orbit according to each planet. It leaves view sometimes to reach a sixth location, possibly the vortex. Could both the cloaked and ghostly moons be evil twins of one another?": "OBSERVATION 2: A ghostly moon with a similar atmosphere as this moon changes its orbit according to each planet. It leaves view sometimes to reach a sixth location, possibly the vortex. Could both the cloaked and ghostly moons be evil twins of one another?",
+    "OBSERVATION 2: A ghostly moon with a similar atmosphere as this moon changes its orbit according to each planet. It leaves view sometimes to reach a sixth location, possibly the vortex. Could both the cloaked and ghostly moons be evil twins of one another?": "観察2:ここの月と似た大気を持つ幽霊のような月は各惑星に応じて軌道を変える。その月は時折視界から消え、おそらく渦であろう第6の場所へ到達する。隠れた月と幽霊のような月はお互い邪悪な双子なのだろうか？&lt;i&gt;&lt;/i&gt;",
 
     //Table3
-    "OBSERVATION 3: I just pointed my telescope at the fifth planet...what I saw...I was shocked. My plans might work after all! This is going to the archives right away!": "OBSERVATION 3: I just pointed my telescope at the fifth planet...what I saw...I was shocked. My plans might work after all! This is going to the archives right away!",
+    "OBSERVATION 3: I just pointed my telescope at the fifth planet...what I saw...I was shocked. My plans might work after all! This is going to the archives right away!": "観察3:ちょうど第5惑星に望遠鏡を向けたところだが…見たものは…衝撃的だった。とにかく私の計画はうまくいくかもしれない！今すぐこの記録は保管しなくては！&lt;i&gt;&lt;/i&gt;",
 
     //CrashSite
-    "Day 1: My family and I just crash landed here, and we have no idea where we are. The atmosphere here is thick and the temperatures are bearable, so I think we can survive here for a while with our emergency tree kit.": "Day 1: My family and I just crash landed here, and we have no idea where we are. The atmosphere here is thick and the temperatures are bearable, so I think we can survive here for a while with our emergency tree kit.",
+    "Day 1: My family and I just crash landed here, and we have no idea where we are. The atmosphere here is thick and the temperatures are bearable, so I think we can survive here for a while with our emergency tree kit.": "1日目:家族と私はここに不時着したばかりで、どこにいるのかもわからない。ここの大気は濃く気温も耐えられるので、緊急用樹木キットでしばらくは生き延びられそうだ。&lt;i&gt;&lt;/i&gt;",
 
     //Mines
-    "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.",
+    "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "5日目:この場所は覚えている！ここは我々の種族がクローキング装置用の鉱物を採掘した場所だ！鉱物はそれ自体動力にもなるので、これで船に燃料を供給してこの星系の温暖な惑星から資源を得られるだろう。&lt;i&gt;&lt;/i&gt;",
 
     //1F_Table1
     "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.",
@@ -1009,7 +1009,7 @@
     "UFO Destination": "UFO Destination",
     "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.": "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.",
     "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.": "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.",
-    "Hurricane": "Hurricane",
+    "Hurricane": "ハリケーン",
     "undefined": "undefined",
     "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.": "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.",
     "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.": "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.",
@@ -1406,8 +1406,8 @@
     "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.",
 
     //TIMBER_HEARTH
-    "Timber Hearth Vision Torch": "Timber Hearth Vision Torch",
-    "Strange Signal": "Strange Signal",
+    "Timber Hearth Vision Torch": "木の炉辺のビジョントーチ",
+    "Strange Signal": "流れの信号",
     "Slate said the strange signal came from one of the waterfalls in the village.": "Slate said the strange signal came from one of the waterfalls in the village.",
     "The strange signal appears to be coming from a Vision Torch.": "The strange signal appears to be coming from a Vision Torch.",
     "The vision torch contained a vision of three inhabitants of the Stranger landing on Timber Hearth where they ate some of our primitive ancestors as food! They flew back to what looks to be Dark Bramble before it overgrew.": "The vision torch contained a vision of three inhabitants of the Stranger landing on Timber Hearth where they ate some of our primitive ancestors as food! They flew back to what looks to be Dark Bramble before it overgrew.",
@@ -1442,7 +1442,7 @@
 
     "Musician": "Musician",
     "Strangers' Probe": "Strangers' Probe",
-    "Strange Frequency": "未知の周波数",
+    "Strange Frequency": "流れの周波数",
     "Timber Hearth Vision Torch": "木の炉辺のビジョントーチ",
     "Signal House": "Signal House",
     "Bramble Base": "Bramble Base",
@@ -1462,7 +1462,7 @@
     "Homeworld Quantum Shard": "Homeworld Quantum Shard",
     "UNKNOWN": "不明",
 
-    "Skull": "Skull",
+    "Skull": "頭蓋骨",
     "Mineral": "鉱物",
 
     "Angler's Eye": "アンコウの眼",
@@ -1476,7 +1476,7 @@
   },
   "OtherDictionary": {
     "SealDisplayName": "{0} Seal",
-    "Skull": "Skull",
+    "Skull": "頭蓋骨",
     "Mineral": "鉱物"
   },
 	"AchievementTranslations": {
