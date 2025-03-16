@@ -27,7 +27,7 @@
     "Day 42: The resources we have obtained from this system's terrestrial planet are helpful, especially the fish we have found in one of the ponds. We'll never run out of food now!": "42日目:この星系の温暖な固体惑星から得た資源、特に池の1つで見つけた魚が有用である。これでもう食糧が枯渇することはない！&lt;i&gt;&lt;/i&gt;",
 
     //Desk2
-    "Day 43: I scanned the fish with my vision torch. It says these fish will evolve into an intelligent species, and that one individual will be able to make it here. Interesting...": "43日目:ビジョントーチでこの魚をスキャンした。すると、この魚は知的生命体に進化し、そのうちの1個体がここに到達できるそうだ。興味深い…。&lt;i&gt;&lt;/i&gt;",
+    "Day 43: I scanned the fish with my vision torch. It says these fish will evolve into an intelligent species, and that one individual will be able to make it here. Interesting...": "43日目:ビジョントーチでこの魚をスキャンした。すると、この魚は知的生命体に進化し、そのうちの1個体がここに到達できるそうだ。興味深い…&lt;i&gt;&lt;/i&gt;",
 
     //Wall1
     "Our conservatory should be just enough to produce healthy seeds for the next 5 years. That is more than enough time that we need to finish the terraforming.": "我々の温室は今後5年間にわたって健康な種子を生産するのにちょうど足りうる。これはテラフォーミングを完了するのに必要な時間として十分すぎるほどだ。&lt;i&gt;&lt;/i&gt;",
@@ -36,7 +36,7 @@
     "Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high.": "次に、水を流さば、我らの木々は再び生い茂らん。天上の水を求めよ、環の巨人の高き所より。",
 
     //1F_Archive
-    "Day 66: I have finished setting up this simulation for myself and anyone who stumbles across it, with the purpose of preserving the fifth planet before its destruction. All slide reels have also been uploaded and preserved within it, but I will make sure it is never used the way my kind has done.": "66日目:この第5惑星が破壊される以前の姿を保存するという目的で、私自身およびひょっこり気づく誰かのために模擬現実の設定を完了した。すべてのスライドリールもアップロードされてその中に保存されている。しかし、私の種族がしたような使い方は決してしないつもりだ。&lt;i&gt;&lt;/i&gt;",
+    "Day 66: I have finished setting up this simulation for myself and anyone who stumbles across it, with the purpose of preserving the fifth planet before its destruction. All slide reels have also been uploaded and preserved within it, but I will make sure it is never used the way my kind has done.": "66日目:この第5惑星が破壊される以前の姿を保存するという目的で、私自身およびひょっこり気づく誰かのために模擬現実の設定を完了した。すべてのスライドリールもアップロードされてその中に保存されている。しかし、同胞がしたような使い方は決してしないつもりだ。&lt;i&gt;&lt;/i&gt;",
 
     //1F_SimEntryWall
     "Fourth, keep out a watchful eye. Make sure our offspring does not die.": "第4に、目を凝らし見守れ。我らの子孫が死なぬように。",
@@ -72,37 +72,37 @@
     "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "5日目:この場所は覚えている！ここは我々の種族がクローキング装置用の鉱物を採掘した場所だ！鉱物はそれ自体動力にもなるので、これで船に燃料を供給してこの星系の温暖な惑星から資源を得られるだろう。&lt;i&gt;&lt;/i&gt;",
 
     //1F_Table1
-    "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.",
+    "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "テラフォーミングは難しいが、不可能ではない。必要なものは酸素のための木、生命のための水、そしてそこへ到達するための何らかの手段だ。仮に宇宙が1兆倍も大きければどれだけの苦痛になるか想像してみればよい。&lt;i&gt;&lt;/i&gt;",
 
     //1F_Table2
-    "I can't use my kind's ship, so we need another means of transport and we need to grow more trees. We can get the water by extracting the hydrogen and oxygen from the Teal-Ringed Giant.": "I can't use my kind's ship, so we need another means of transport and we need to grow more trees. We can get the water by extracting the hydrogen and oxygen from the Teal-Ringed Giant.",
+    "I can't use my kind's ship, so we need another means of transport and we need to grow more trees. We can get the water by extracting the hydrogen and oxygen from the Teal-Ringed Giant.": "同胞の船は使えないため、別の輸送手段およびより多くの木を育てる必要がある。水はあの青緑の環の巨人から水素と酸素を抽出することで得られる。&lt;i&gt;&lt;/i&gt;",
 
     //1F_Wall1
-    "Day 40: Finally, everything is built. Now to continue my research...": "Day 40: Finally, everything is built. Now to continue my research...",
+    "Day 40: Finally, everything is built. Now to continue my research...": "40日目:ついに、すべての建築が終わった。次は研究を続けることだ…&lt;i&gt;&lt;/i&gt;",
 
     //1F_Wall2
-    "Day 50: I finally got ahold of my kind's ship with my signal station. I will be leaving tomorrow to finally get this plan back on track.": "Day 50: I finally got ahold of my kind's ship with my signal station. I will be leaving tomorrow to finally get this plan back on track.",
+    "Day 50: I finally got ahold of my kind's ship with my signal station. I will be leaving tomorrow to finally get this plan back on track.": "50日目:やっと信号ステーションで同胞の船と連絡が取れた。明日出発し、ようやく計画を軌道に戻せることだろう。&lt;i&gt;&lt;/i&gt;",
 
     //1F_Wall3
-    "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.": "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.",
+    "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.": "64日目:残念だが、私は船を去らねばならなかった。他の者たちはもはや正気ではなくなり、彼らの構築した新しい模擬現実から出ることを拒絶している。彼らを助けるために私にできることは何もない。&lt;i&gt;&lt;/i&gt;",
 
     //2F_Desk
     "For our old world to be revived, get these things and it shall thrive. There is an order it shall follow, or it will stay dead and hollow. First things first, go get a seed. Then search elsewhere for the rest you need.": "古き世を再生させんには、かくの如き物を集め、然れば栄えん。されど上下守らねば、枯れし虚ろのままならん。先ず第一に、種子を得よ。然る後、他に残りを探し求めよ。",
 
     //2F_Poster1
-    "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.",
+    "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "この隠れた月はここの星系の第5惑星を周回している。その起源は親惑星から来たはずと考えると奇妙なものだ。&lt;i&gt;&lt;/i&gt;",
 
     //2F_Poster2
-    "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.",
+    "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "この月には不思議な性質を持つ滑らかで黒い鉱物が豊富にある。我々の種族はこの資源を船に利用した。&lt;i&gt;&lt;/i&gt;",
 
     //2F_Poster3
-    "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.": "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.",
+    "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.": "ここは北極で、基地の大部分が存在する。南極は危険であり極めて奇妙な性質を持っているが、立ち入ることが不可能というわけではない。&lt;i&gt;&lt;/i&gt;",
 
     //2F_Poster4
-    "Day 70: When I was calculating trajectories for this moon's orbit, it's also a moon for the object that drove my kind insane. I hardly remember the details of it, but I can assume that this moon collided with it.": "Day 70: When I was calculating trajectories for this moon's orbit, it's also a moon for the object that drove my kind insane. I hardly remember the details of it, but I can assume that this moon collided with it.",
-    "Day 45: An anomaly has occured with the signal blocker, as I was able to detect The Eye's signal. However, this anomaly allowed me to track the connection wavelengths between our ship and the blocker, now that I have it located.": "Day 45: An anomaly has occured with the signal blocker, as I was able to detect The Eye's signal. However, this anomaly allowed me to track the connection wavelengths between our ship and the blocker, now that I have it located.",
-    "Input these poems as a secret code, but put a star in the fifth node.": "Input these poems as a secret code, but put a star in the fifth node.",
-    "The light bulb above the hidden door in the Bramble Museum has somehow synced with the door under it, which can be found with a flashlight. The closer it is to opening, the darker the light bulb gets.": "The light bulb above the hidden door in the Bramble Museum has somehow synced with the door under it, which can be found with a flashlight. The closer it is to opening, the darker the light bulb gets.",
+    "Day 70: When I was calculating trajectories for this moon's orbit, it's also a moon for the object that drove my kind insane. I hardly remember the details of it, but I can assume that this moon collided with it.": "70日目:この月の軌道を計算していたのだが、これは同胞を狂わせた天体に関する月でもあった。その詳細はほとんど覚えていないものの、この月がその天体に衝突したのだと推測できる。&lt;i&gt;&lt;/i&gt;",
+    "Day 45: An anomaly has occured with the signal blocker, as I was able to detect The Eye's signal. However, this anomaly allowed me to track the connection wavelengths between our ship and the blocker, now that I have it located.": "45日目:信号遮断装置に異常が発生し、眼の信号を検出できるようになった。とはいえこの異常によって、我々の船と遮断装置間の接続波長を追跡できるようになったので、今やその場所は特定済みである。&lt;i&gt;&lt;/i&gt;",
+    "Input these poems as a secret code, but put a star in the fifth node.": "これらの詩を秘密のコードとして入力するのだ。ただし、5番目には星を置くことだ。&lt;i&gt;&lt;/i&gt;",
+    "The light bulb above the hidden door in the Bramble Museum has somehow synced with the door under it, which can be found with a flashlight. The closer it is to opening, the darker the light bulb gets.": "イバラ博物館の隠し扉の上の電球はどういうわけかその扉と同期しており、フラッシュライトで見つけることができる。扉の開放に近づくほどその電球は暗くなる。&lt;i&gt;&lt;/i&gt;",
     "With those two things, fresh air will flourish, so plants and animals can thrive and nourish.": "然る二つの物にて、純然たる気は満ちあふれ、草木命らは栄え育まれん。",
     "The seeds grow best on sunny days, our air lets fires set ablaze.": "種子は日の光にて最も良く育ち、我らの気は炎を燃え上がらせん。",
 
