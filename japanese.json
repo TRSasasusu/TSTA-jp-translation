@@ -595,14 +595,14 @@
       //TopReelShelf2
   
       //TopReelShelf3
-      "Day 53: I arrived at my kin's ship yesterday, and everyone here is dead. All they left behind is this simulation of our home moon, in which I have coded this new area. Had they listened to me before, this wouldn't have happened.": "Day 53: I arrived at my kin's ship yesterday, and everyone here is dead. All they left behind is this simulation of our home moon, in which I have coded this new area. Had they listened to me before, this wouldn't have happened.",
-      "Day 53: I just ran into a few of my friends, and surprisingly, they're still alive here! This simulation must preserve an organism after it dies! I...I don't know how to feel about this...": "Day 53: I just ran into a few of my friends, and surprisingly, they're still alive here! This simulation must preserve an organism after it dies! I...I don't know how to feel about this...",
-      "Day 54: There's nothing I can do to help my kin. So many of them know that life in the simulation is not the same as life in our moon, but it's too late for them to terraform it with me now.": "Day 54: There's nothing I can do to help my kin. So many of them know that life in the simulation is not the same as life in our moon, but it's too late for them to terraform it with me now.",
+      "Day 53: I arrived at my kin's ship yesterday, and everyone here is dead. All they left behind is this simulation of our home moon, in which I have coded this new area. Had they listened to me before, this wouldn't have happened.": "53日目:昨日、同胞の船にたどり着いたのだが、ここの誰もが亡くなっていた。残されたのは我々の故郷である月の模擬現実のみであった。ここで私はこの新しいエリアをコーディングした。彼らが以前から私の主張を聞いていればこのようなことにはならなかったであろう。&lt;i&gt;&lt;/i&gt;",
+      "Day 53: I just ran into a few of my friends, and surprisingly, they're still alive here! This simulation must preserve an organism after it dies! I...I don't know how to feel about this...": "53日目:友人たちに偶然会ったのだが、驚いたことにまだここで生きていたのだ！この模擬現実は生物が死んだ後であっても保存することができる！私は…この感覚をどう表現すればよいのか…&lt;i&gt;&lt;/i&gt;",
+      "Day 54: There's nothing I can do to help my kin. So many of them know that life in the simulation is not the same as life in our moon, but it's too late for them to terraform it with me now.": "54日目:同胞を助けるため私にできることは何もない。模擬現実での一生は我々の故郷での一生と同じではないのだと彼らの多くが知ってはいるものの、今さら私とともにテラフォーミングをするには遅すぎた。&lt;i&gt;&lt;/i&gt;",
   
       //2F_Memorial
-      "This memorial is in place in honor of my family. My two children have passed due to lack of nutrients on my kin's ship. And in case my wife and I die, I put a memorial in place for her and myself as well.": "This memorial is in place in honor of my family. My two children have passed due to lack of nutrients on my kin's ship. And in case my wife and I die, I put a memorial in place for her and myself as well.",
-      "Some idiot tried to steal some of my slide reels to try and burn them, but I managed to get them back from him. He ran off to the left when you walk out the door.": "Some idiot tried to steal some of my slide reels to try and burn them, but I managed to get them back from him. He ran off to the left when you walk out the door.",
-      "Day 53: I spoke with some of the remaining scientists in the simulation about the solar sails today. Seems like activation may affect the power and the simulation too. With the changes I made, it will hopefully stabilize about 6 minutes later.": "Day 53: I spoke with some of the remaining scientists in the simulation about the solar sails today. Seems like activation may affect the power and the simulation too. With the changes I made, it will hopefully stabilize about 6 minutes later.",
+      "This memorial is in place in honor of my family. My two children have passed due to lack of nutrients on my kin's ship. And in case my wife and I die, I put a memorial in place for her and myself as well.": "この記念碑は私の家族を偲んで設置したものである。私の2人の子供は同胞の船における栄養失調で亡くなった。そして、妻と私も亡くなった場合に備えて、これは私たち自身のための記念碑でもある。&lt;i&gt;&lt;/i&gt;",
+      "Some idiot tried to steal some of my slide reels to try and burn them, but I managed to get them back from him. He ran off to the left when you walk out the door.": "愚か者が私のスライドリールを盗んで燃やそうとしたが、どうにか取り戻すことができた。奴は扉から出ると左へ逃げていった。&lt;i&gt;&lt;/i&gt;",
+      "Day 53: I spoke with some of the remaining scientists in the simulation about the solar sails today. Seems like activation may affect the power and the simulation too. With the changes I made, it will hopefully stabilize about 6 minutes later.": "53日目:今日は模擬現実に残っている研究者たちと太陽帆について議論した。どうやら起動すると電力と模擬現実にも影響が出るようだ。私の修正により、そのおよそ6分後には安定するはずだ。&lt;i&gt;&lt;/i&gt;",
   
       //Crimson
       "Surfing really brings me at peace...": "Surfing really brings me at peace...",
@@ -831,67 +831,67 @@
       "Farewell, traveler.": "Farewell, traveler.",
   
       //DarkSide
-      "Dark Side Entrance": "Dark Side Entrance",
+      "Dark Side Entrance": "暗闇の入口&lt;i&gt;&lt;/i&gt;",
   
       //DoNotEnter
-      "DO NOT ENTER!": "DO NOT ENTER!",
+      "DO NOT ENTER!": "立入禁止！&lt;i&gt;&lt;/i&gt;",
   
       //LightSide
-      "Light Side Entrance": "Light Side Entrance",
+      "Light Side Entrance": "光明の入口&lt;i&gt;&lt;/i&gt;",
   
       //PrisonerLock
-      "Here lies Phyllo the traitor, locked up in eternal solitude. Do NOT open or consequenses will be dire.": "Here lies Phyllo the traitor, locked up in eternal solitude. Do NOT open or consequenses will be dire.",
+      "Here lies Phyllo the traitor, locked up in eternal solitude. Do NOT open or consequenses will be dire.": "叛逆者のPhylloがここで永遠の孤独に閉じ込められています。決して開けないでください。さもなくば悲惨な結末を招くことになります。&lt;i&gt;&lt;/i&gt;",
   
       //Zone1
-      "River Lowlands": "River Lowlands",
+      "River Lowlands": "河川低地",
   
       //Zone2
-      "Cinder Isles": "Cinder Isles",
+      "Cinder Isles": "燃え殻諸島",
   
       //Zone3
-      "Hidden Gorge": "Hidden Gorge",
+      "Hidden Gorge": "隠れ峡谷",
   
       //Zone4
-      "Dam": "Dam",
+      "Dam": "ダム",
   
       //Exit
-      "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)": "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)",
-      "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.",
-      "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.": "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.",
-      "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.",
+      "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)": "アンコウの眼への出口(注意:ここから出るにはこの上を歩く必要があります！)&lt;i&gt;&lt;/i&gt;",
+      "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "Coma Hallでは全員が熟睡しているが、集中して静かに忍び込むだけでは十分ではない。どうやら物音だけでなく遺物の光も彼らを起こしてしまうようだ。&lt;i&gt;&lt;/i&gt;",
+      "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.": "アンコウ101:船を使わずに移動するとアンコウは目覚めにくくなる。我々が考えるにこれは物音によるものだろう。ゆえにもし緊急事態が発生したなら船から脱出するとよいだろう。&lt;i&gt;&lt;/i&gt;",
+      "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "アンコウ101:アンコウをよけるには斜めにスラスターを使うことだ。また、アンコウの動きが見えたりうなり声が聞こえたりしたらすぐにスラスターを止めることだ。そうすれば追いかけられないで済む。そのまま通り過ぎてしまうかもしれない。&lt;i&gt;&lt;/i&gt;",
   
       //Ernesto
-      "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.": "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.",
+      "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.": "惑星メサに由来するアンコウはこの星系で最も丈夫な生物の1つである。この水槽にはオスのアンコウがおり、メスより10分の1の大きさである。オスは常に非常に空腹であるとともに、常に番となるメスを探している。&lt;i&gt;&lt;/i&gt;",
   
       //Geswaldo
-      "Jellyfish are native to this planet, and typically swim on the top layers of its subsurface ocean, while the anglerfish lurk at the bottom. They are typically peaceful, but don't touch them anywhere but the cap of their head.": "Jellyfish are native to this planet, and typically swim on the top layers of its subsurface ocean, while the anglerfish lurk at the bottom. They are typically peaceful, but don't touch them anywhere but the cap of their head.",
-      "Day 70: Eureka! I've done it! I can harness the Bramble's space-bending powers using the cloaked moon's minerals! With its help, I can neutralize it and stop it from growing.": "Day 70: Eureka! I've done it! I can harness the Bramble's space-bending powers using the cloaked moon's minerals! With its help, I can neutralize it and stop it from growing.",
+      "Jellyfish are native to this planet, and typically swim on the top layers of its subsurface ocean, while the anglerfish lurk at the bottom. They are typically peaceful, but don't touch them anywhere but the cap of their head.": "クラゲはこの惑星の固有種であり、アンコウが海底に潜むのに対し、クラゲは通常は海面付近を泳ぐ。基本的に穏やかだが、頭頂部以外に触れることはできない。&lt;i&gt;&lt;/i&gt;",
+      "Day 70: Eureka! I've done it! I can harness the Bramble's space-bending powers using the cloaked moon's minerals! With its help, I can neutralize it and stop it from growing.": "70日目:やった！わかったぞ！隠れた月のミネラルを使って、イバラの空間を歪める力を制御できた！これでイバラを無力化し、その成長を止めることができる。&lt;i&gt;&lt;/i&gt;",
   
       //Wall
-      "I never knew reflection was coded into the simulation framework. Seems like you can shine your light on a piece of ice and it will bounce off and hit the door.": "I never knew reflection was coded into the simulation framework. Seems like you can shine your light on a piece of ice and it will bounce off and hit the door.",
+      "I never knew reflection was coded into the simulation framework. Seems like you can shine your light on a piece of ice and it will bounce off and hit the door.": "模擬現実のフレームワークに反射がコーディングされているとは知らなかった。どうやら氷に光を当てると反射して扉に当たるようだ。&lt;i&gt;&lt;/i&gt;",
   
       //CavesSign
-      "To the South Pole, take a stroll. Retrace your steps, to the North Pole.": "To the South Pole, take a stroll. Retrace your steps, to the North Pole.",
+      "To the South Pole, take a stroll. Retrace your steps, to the North Pole.": "南の極へ、しばし歩を運び、来た道をたどり、北の極へ。",
   
       //Left
-      "Biology Research Deck": "Biology Research Deck",
+      "Biology Research Deck": "生物学研究デッキ&lt;i&gt;&lt;/i&gt;",
   
       //Right
-      "Path to Projection House": "Path to Projection House",
+      "Path to Projection House": "投影小屋への道&lt;i&gt;&lt;/i&gt;",
   
       //Sign
-      "Tread the path of the lit candles. With wind opens the seed of bramble.": "Tread the path of the lit candles. With wind opens the seed of bramble.",
+      "Tread the path of the lit candles. With wind opens the seed of bramble.": "灯火の道を、踏みしめて行けば、風と共に、イバラの種子が開かん。",
   
       //Sign2
-      "At extremely rare conditions throughout its infestation, the Bramble may form an eerie forest just like this one.": "At extremely rare conditions throughout its infestation, the Bramble may form an eerie forest just like this one.",
+      "At extremely rare conditions throughout its infestation, the Bramble may form an eerie forest just like this one.": "蔓延中に極めて稀な状況で、イバラはこのように不気味な森を形成することがある。&lt;i&gt;&lt;/i&gt;",
   
       //Left2
-      "Way Back to Fireplace": "Way Back to Fireplace",
+      "Way Back to Fireplace": "焚火へ戻る道&lt;i&gt;&lt;/i&gt;",
   
       //Right2
   
       //Up
-      "Path to Biology Research Deck": "Path to Biology Research Deck",
+      "Path to Biology Research Deck": "生物学研究デッキへの道&lt;i&gt;&lt;/i&gt;",
       "Hey it's me Ernesto the simulated talking anglerfish.": "Hey it's me Ernesto the simulated talking anglerfish.",
       "Do you know the owl-like being that made this place?": "Do you know the owl-like being that made this place?",
       "Oh no...ANOTHER ERNESTO REFERENCE IN AN OUTER WILDS MOD!?": "Oh no...ANOTHER ERNESTO REFERENCE IN AN OUTER WILDS MOD!?",
