@@ -32,7 +32,7 @@
       "The fifth planet currently has an invasive plant that started rapidly growing from the bottom of its subsurface ocean, and today has grown almost to the surface. To the left is what the fifth planet of this system looks like, to the right is what the planet and its fate will look like in the future.": "第5惑星には現在、海底から急速に成長を始めた侵略植物があり、今日ではほぼ地表にまで達している。左側はこの星系の第5惑星の様子、右側は未来におけるこの惑星の運命を示している。&lt;i&gt;&lt;/i&gt;",
   
       //2F_VineExhibit
-      "Apparently, it has been discovered that the only way to stop the growth of the plant is through use of the minerals found all over this moon. However, it can have side effects to the pocket dimensions it connects to, eliminating all light within. The anglerfish also seem to act different.": "どうやらこの植物の成長を止める唯一の方法は、この月のあらゆる場所で見つかる鉱物を使うことのようだと判明した。しかし、その植物が繋がる空間に副作用が生じ、内部の光がすべて消失する。アンコウも通常とは異なる行動をとるようだ。&lt;i&gt;&lt;/i&gt;",
+      "Apparently, it has been discovered that the only way to stop the growth of the plant is through use of the minerals found all over this moon. However, it can have side effects to the pocket dimensions it connects to, eliminating all light within. The anglerfish also seem to act different.": "どうやらこの植物の成長を止める唯一の方法は、この月のあらゆる場所で見つかるミネラルを使うことのようだと判明した。しかし、その植物が繋がる空間に副作用が生じ、内部の光がすべて消失する。アンコウも通常とは異なる行動をとるようだ。&lt;i&gt;&lt;/i&gt;",
   
       //Elevator
       "Elevator to Observation Deck": "展望台へのエレベータ",
@@ -50,7 +50,7 @@
       "Day 1: My family and I just crash landed here, and we have no idea where we are. The atmosphere here is thick and the temperatures are bearable, so I think we can survive here for a while with our emergency tree kit.": "1日目:家族と私はここに不時着したばかりで、どこにいるのかもわからない。ここの大気は濃く気温も耐えられるので、緊急用樹木キットでしばらくは生き延びられそうだ。&lt;i&gt;&lt;/i&gt;",
   
       //Mines
-      "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "5日目:この場所は覚えている！ここは我々の種族がクローキング装置用の鉱物を採掘した場所だ！鉱物はそれ自体動力にもなるので、これで船に燃料を供給してこの星系の温暖な惑星から資源を得られるだろう。&lt;i&gt;&lt;/i&gt;",
+      "Day 5: I remember this place! This is the place our kind mined the materials for the cloaking device! Since the minerals power themselves, I can use it to fuel my ship and get resources from this system's terrestrial planet.": "5日目:この場所は覚えている！ここは我々の種族がクローキング装置用のミネラルを採掘した場所だ！ミネラルはそれ自体動力にもなるので、これで船に燃料を供給してこの星系の温暖な惑星から資源を得られるだろう。&lt;i&gt;&lt;/i&gt;",
   
       //1F_Table1
       "Terraforming is difficult, but not impossible. All we need is trees for oxygen, water for life, and some means of getting there. Imagine the pain if our universe was a trillion times bigger.": "テラフォーミングは難しいが、不可能ではない。必要なものは酸素のための木、生命のための水、そしてそこへ到達するための何らかの手段だ。仮に宇宙が1兆倍も大きければどれだけの苦痛になるか想像してみればよい。&lt;i&gt;&lt;/i&gt;",
@@ -74,7 +74,7 @@
       "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "この隠れた月はここの星系の第5惑星を周回している。その起源は親惑星から来たはずと考えると奇妙なものだ。&lt;i&gt;&lt;/i&gt;",
   
       //2F_Poster2
-      "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "この月には不思議な性質を持つ滑らかで黒い鉱物が豊富にある。我々の種族はこの資源を船に利用した。&lt;i&gt;&lt;/i&gt;",
+      "The planet is abundant with a smooth, black mineral with strange properties. Our kind used these resources for our ship.": "この月には不思議な性質を持つ滑らかで黒いミネラルが豊富にある。我々の種族はこの資源を船に利用した。&lt;i&gt;&lt;/i&gt;",
   
       //2F_Poster3
       "This is the north pole, where most of the base lies. The south pole is dangerous and has extremely strange properties, but it's not impossible to enter.": "ここは北極で、基地の大部分が存在する。南極は危険であり極めて奇妙な性質を持っているが、立ち入ることが不可能というわけではない。&lt;i&gt;&lt;/i&gt;",
@@ -802,33 +802,33 @@
       "So take a seat, get comfortable. This is your new home now. We'll be here until the end of time!": "So take a seat, get comfortable. This is your new home now. We'll be here until the end of time!",
   
       //SolanumNew
-      "Kind traveler, you have bestowed upon me such wonderful wisdom.": "Kind traveler, you have bestowed upon me such wonderful wisdom.",
-      "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.": "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.",
-      "Is it true that The Eye of the Universe is really just a tool of universal destruction? No wonder why they tried to hide it from us.": "Is it true that The Eye of the Universe is really just a tool of universal destruction? No wonder why they tried to hide it from us.",
-      "Even then so, our curiosity would still pull us further if we found out such a thing, no matter what risk is to come.": "Even then so, our curiosity would still pull us further if we found out such a thing, no matter what risk is to come.",
-      "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.": "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.",
-      "And this ancient species, their technology is fascinating, especially this torch-like device you have projected onto me.": "And this ancient species, their technology is fascinating, especially this torch-like device you have projected onto me.",
-      "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!": "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!",
-      "And that prisoner of theirs? He must have seen something in The Eye that no one else has seen.": "And that prisoner of theirs? He must have seen something in The Eye that no one else has seen.",
-      "Fellow traveler, if you wish to enter The Eye, do not be as fearful as they were.": "Fellow traveler, if you wish to enter The Eye, do not be as fearful as they were.",
-      "If you wish to converse more, I would be grateful to.": "If you wish to converse more, I would be grateful to.",
-      "Hello traveler, what is on your mind?": "Hello traveler, what is on your mind?",
-      "I need some help with my expedition. Can you help me?": "I need some help with my expedition. Can you help me?",
-      "Can I try getting you out of here?": "Can I try getting you out of here?",
-      "Farewell.": "Farewell.",
-      "Anything else, traveler?": "Anything else, traveler?",
-      "I am sorry, traveler. I cannot help you. However, here is some advice.": "I am sorry, traveler. I cannot help you. However, here is some advice.",
-      "If you are feeling stuck on something, try going back into your notes and re-reading them.": "If you are feeling stuck on something, try going back into your notes and re-reading them.",
-      "We Nomai have computerized logs on our ship. Do you not have something similar?": "We Nomai have computerized logs on our ship. Do you not have something similar?",
-      "If you are still stuck, then I recommend exploring elsewhere and come back later.": "If you are still stuck, then I recommend exploring elsewhere and come back later.",
-      "If you truly did go everywhere you could, you probably came over some clues and did not notice.": "If you truly did go everywhere you could, you probably came over some clues and did not notice.",
-      "I hope this helps you on your expeditions. However, I cannot help you much outside of that.": "I hope this helps you on your expeditions. However, I cannot help you much outside of that.",
-      "I am sure there is a way that I can leave the Quantum Moon, but I am kind of growing to enjoy it.": "I am sure there is a way that I can leave the Quantum Moon, but I am kind of growing to enjoy it.",
-      "The clouds are peaceful, the rocks are as beautiful as ever, I do not feel pain, hunger, thirst, or even time...": "The clouds are peaceful, the rocks are as beautiful as ever, I do not feel pain, hunger, thirst, or even time...",
-      "And even then, what does it matter? I sense the Solar System and The Universe itself are at their ends.": "And even then, what does it matter? I sense the Solar System and The Universe itself are at their ends.",
-      "All my friends and family have died, and so will yours soon. Your connection to the Ash Twin Project does not benefit anyone else but you and whoever else is attached to it.": "All my friends and family have died, and so will yours soon. Your connection to the Ash Twin Project does not benefit anyone else but you and whoever else is attached to it.",
-      "However, maybe I will think about it, but I doubt I will be able to think of it before the death of your star.": "However, maybe I will think about it, but I doubt I will be able to think of it before the death of your star.",
-      "Farewell, traveler.": "Farewell, traveler.",
+      "Kind traveler, you have bestowed upon me such wonderful wisdom.": "親切な旅人さん、あなたによって素晴らしい知恵が授けられたわ。&lt;i&gt;&lt;/i&gt;",
+      "An owl-like species hidden beneath a cloak above the plane of the Solar System...it is no wonder we Nomai have not discovered it yet.": "太陽系平面の上の方でクローキングフィールドに隠れるフクロウのような種族…私たちNomaiが未だそれを発見できなかったのは不思議ではない。&lt;i&gt;&lt;/i&gt;",
+      "Is it true that The Eye of the Universe is really just a tool of universal destruction? No wonder why they tried to hide it from us.": "宇宙の眼は宇宙を破壊するためのただの道具だというのは本当？それなら彼らが私たちから隠そうとしたのも不思議じゃない。&lt;i&gt;&lt;/i&gt;",
+      "Even then so, our curiosity would still pull us further if we found out such a thing, no matter what risk is to come.": "それでも、もしそのようなことがわかったとしたら、それがどのような危険を伴うものだとしても私たちの好奇心によってさらに引き寄せられたでしょう。&lt;i&gt;&lt;/i&gt;",
+      "After all, look at us. We crashed our Vessel into Dark Bramble. My family and friends have died to those ghastly fumes.": "結局のところ、私たちを見ればわかる。私たちは船を闇のイバラへ墜落させた。そして、家族も友人もその恐ろしい煙で失われた。&lt;i&gt;&lt;/i&gt;",
+      "And this ancient species, their technology is fascinating, especially this torch-like device you have projected onto me.": "それから、その古代種族。彼らの技術は魅力的ね。特にあなたが私に投影してくれたトーチみたいな装置なんて。&lt;i&gt;&lt;/i&gt;",
+      "Imagine how many other species we could have talked to. This would have been a wonderful little tool to bring to The Festival!": "これでどれほど多くの他種族と会話できるようになるか想像してみて。祝祭に持っていける素晴らしいツールになれたでしょうに！&lt;i&gt;&lt;/i&gt;",
+      "And that prisoner of theirs? He must have seen something in The Eye that no one else has seen.": "あとは彼らにとっての囚人ね？その人物は他の誰もが見たことのない何かを眼に見出したに違いないわ。&lt;i&gt;&lt;/i&gt;",
+      "Fellow traveler, if you wish to enter The Eye, do not be as fearful as they were.": "親愛なる旅人よ、もしあなたが眼に入りたいなら、彼らほど恐れることはない。&lt;i&gt;&lt;/i&gt;",
+      "If you wish to converse more, I would be grateful to.": "もっと話をしたいなら、喜んで応えるわ。&lt;i&gt;&lt;/i&gt;",
+      "Hello traveler, what is on your mind?": "こんにちは、旅人さん。何を考えてる？&lt;i&gt;&lt;/i&gt;",
+      "I need some help with my expedition. Can you help me?": "探検に助けがほしい。手伝ってもらえない？&lt;i&gt;&lt;/i&gt;",
+      "Can I try getting you out of here?": "あなたをここから連れだせるだろうか？&lt;i&gt;&lt;/i&gt;",
+      "Farewell.": "さようなら。",
+      "Anything else, traveler?": "他には？旅人さん。&lt;i&gt;&lt;/i&gt;",
+      "I am sorry, traveler. I cannot help you. However, here is some advice.": "旅人さん、申し訳ないけれど、私にはあなたを助けられない。だけど、助言ならできるわ。&lt;i&gt;&lt;/i&gt;",
+      "If you are feeling stuck on something, try going back into your notes and re-reading them.": "何かに行き詰ったと感じたら、メモに戻って読み直してみて。&lt;i&gt;&lt;/i&gt;",
+      "We Nomai have computerized logs on our ship. Do you not have something similar?": "私たちNomaiは船に電子化された記録を持ってる。あなたも似たようなものを持ってないかしら？&lt;i&gt;&lt;/i&gt;",
+      "If you are still stuck, then I recommend exploring elsewhere and come back later.": "それでも問題が解決しないなら、他の場所を探索して、その後で戻ってくるといいかもしれない。&lt;i&gt;&lt;/i&gt;",
+      "If you truly did go everywhere you could, you probably came over some clues and did not notice.": "本当に行けるところは全部行き尽くしてしまったなら、それはおそらく何か手がかりがあったのだけれどそれに気づかなかったということなのかも。&lt;i&gt;&lt;/i&gt;",
+      "I hope this helps you on your expeditions. However, I cannot help you much outside of that.": "これであなたの探検がうまくいくことを願ってる。でも、それ以外では私は助けになれないわ。&lt;i&gt;&lt;/i&gt;",
+      "I am sure there is a way that I can leave the Quantum Moon, but I am kind of growing to enjoy it.": "量子の月を離れる方法はきっとある。でも、ここがだんだん楽しくなってきてもいるの。&lt;i&gt;&lt;/i&gt;",
+      "The clouds are peaceful, the rocks are as beautiful as ever, I do not feel pain, hunger, thirst, or even time...": "雲は穏やかで、岩は変わらず美しく、そして痛みも、空腹も、渇きも、時間さえも感じない…&lt;i&gt;&lt;/i&gt;",
+      "And even then, what does it matter? I sense the Solar System and The Universe itself are at their ends.": "それに、何か問題があるのかしら？思うに、太陽系そして宇宙そのものが終わりを迎えてる。&lt;i&gt;&lt;/i&gt;",
+      "All my friends and family have died, and so will yours soon. Your connection to the Ash Twin Project does not benefit anyone else but you and whoever else is attached to it.": "私の友人も家族も皆亡くなった。あなたももうすぐ同じことになる。灰の双子星プロジェクトとあなたの間の繋がりは、他にも繋がる者とあなた以外には何も有益ではない。&lt;i&gt;&lt;/i&gt;",
+      "However, maybe I will think about it, but I doubt I will be able to think of it before the death of your star.": "とはいっても、もしかしたら私もここから出ることをいずれ考えるかもしれないわ。だけど、あなたの太陽が死ぬ前にそうなるかは怪しいところね。&lt;i&gt;&lt;/i&gt;",
+      "Farewell, traveler.": "さようなら、旅人さん。",
   
       //DarkSide
       "Dark Side Entrance": "暗闇の入口&lt;i&gt;&lt;/i&gt;",
@@ -1441,7 +1441,7 @@
       "UNKNOWN": "UNKNOWN",
   
       "Skull": "頭蓋骨",
-      "Mineral": "鉱物",
+      "Mineral": "ミネラル",
   
       "Angler's Eye": "アンコウの眼",
       "Ringed Laboratory": "Ringed Laboratory",
@@ -1455,7 +1455,7 @@
     "OtherDictionary": {
       "SealDisplayName": "{0} Seal",
       "Skull": "頭蓋骨",
-      "Mineral": "鉱物"
+      "Mineral": "ミネラル"
     },
     "AchievementTranslations": {
       "tsta_thevision": {
