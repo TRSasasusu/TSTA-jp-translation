@@ -1,6 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "DialogueDictionary": {
+      "The Scientist": "窮理人",
       //Desk
       "Day 42: The resources we have obtained from this system's terrestrial planet are helpful, especially the fish we have found in one of the ponds.": "42日目:この星系の温暖な固体惑星から得た資源、特に池の1つで見つけた魚が有用である。&lt;i&gt;&lt;/i&gt;",
   
@@ -987,40 +988,40 @@
       //anglerseye
       "Angler's Eye": "アンコウの眼",
       "UFO Destination": "飛行体の目的地",
-      "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.": "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.",
-      "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.": "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.",
+      "According to a vision I saw on Timber Hearth, the ship flew towards present-day Dark Bramble. Slate told me to investigate the area.": "木の炉辺で見た幻影によると、船は現在における闇のイバラへ向かって飛んでいったようだ。Slateは私にその周辺の調査を提案した。",
+      "Angler's Eye is Dark Bramble's hidden moon. It has a natural cloak and several Stranger-styled homes.": "アンコウの眼は闇のイバラの隠れた月だ。ここには天然のクローキングフィールドと、流れ者風の建造物がある。",
       "Hurricane": "ハリケーン",
       "undefined": "未定義",
-      "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.": "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.",
-      "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.": "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.",
-      "I was able to enter the tornado safely with the Cloaked Mineral.": "I was able to enter the tornado safely with the Cloaked Mineral.",
+      "According to a message written in the basement of the Bramble Museum, there is a Bramble Seed located in the South Pole, likely within the hurricane.": "イバラ博物館の地下室に書かれた文章によると、南極にはイバラの種があり、それはおそらくハリケーンの中だ。",
+      "I found a hurricane on the south pole of Angler's Eye. It looks dangerous, so I probably shouldn't enter it.": "アンコウの眼の南極にハリケーンを見つけた。危険そうなので、入らない方がよいかもしれない。",
+      "I was able to enter the tornado safely with the Cloaked Mineral.": "クローキングミネラルにより、ハリケーンの中へ安全に入ることができた。",
       "Alien Language": "異種族の言語",
-      "An alien language is used throughout the planet that is identical the writings seen on The Stranger. If only there was some way to learn the language in less than 22 minutes...": "An alien language is used throughout the planet that is identical the writings seen on The Stranger. If only there was some way to learn the language in less than 22 minutes...",
-      "An alien language is used throughout the planet that is identical the writings seen on The Stranger.": "An alien language is used throughout the planet that is identical the writings seen on The Stranger.",
-      "With the help of the Vision Torch, I can now read the language of The Strangers' Inhabitants!": "With the help of the Vision Torch, I can now read the language of The Strangers' Inhabitants!",
-      "Simulation Secret Path Reel": "Simulation Secret Path Reel",
-      "Signal House Slide Reel": "Signal House Slide Reel",
-      "I found a slide reel in the locked room in the Signal House.": "I found a slide reel in the locked room in the Signal House.",
-      "This slide reel shows how to get to a hidden area in the simulation on The Stranger. It seems to be by the balcony outside the prison entrance.": "This slide reel shows how to get to a hidden area in the simulation on The Stranger. It seems to be by the balcony outside the prison entrance.",
-      "Angler's Eye Story Reel": "Angler's Eye Story Reel",
-      "The slide reel shows an inhabitant using a vision torch to project some sort of terraform plan. He and two other inhabitants leave The Stranger and ended up crashing by Dark Bramble.": "The slide reel shows an inhabitant using a vision torch to project some sort of terraform plan. He and two other inhabitants leave The Stranger and ended up crashing by Dark Bramble.",
-      "Vision Torch Text Reel": "Vision Torch Text Reel",
-      "Research House Slide Reel": "Research House Slide Reel",
-      "I found a slide reel on the second floor of the Research and Development House.": "I found a slide reel on the second floor of the Research and Development House.",
-      "The slide reel shows an older inhabitant teaching a younger one how to read with a vision torch.": "The slide reel shows an older inhabitant teaching a younger one how to read with a vision torch.",
-      "Crash Site": "Crash Site",
-      "Crash Site?": "Crash Site?",
-      "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?": "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?",
+      "An alien language is used throughout the planet that is identical the writings seen on The Stranger. If only there was some way to learn the language in less than 22 minutes...": "この月の全域にわたって流れ者で見られる文字と同じ未知の言語が使われている。22分以内にその言語を習得する方法があればよいのだが…",
+      "An alien language is used throughout the planet that is identical the writings seen on The Stranger.": "この月の全域にわたって>流れ者で見られる文字と同じ未知の言語が使われている。",
+      "With the help of the Vision Torch, I can now read the language of The Strangers' Inhabitants!": "ビジョントーチの助けを借りたことで、私は今や流れ者の住人の言語を読めるようになった！",
+      "Simulation Secret Path Reel": "模擬現実の隠された道のリール",
+      "Signal House Slide Reel": "信号小屋のスライドリール",
+      "I found a slide reel in the locked room in the Signal House.": "信号小屋の閉ざされた部屋でスライドリールを見つけた。",
+      "This slide reel shows how to get to a hidden area in the simulation on The Stranger. It seems to be by the balcony outside the prison entrance.": "このスライドリールは、流れ者の模擬現実における隠しエリアへ到達する方法を示している。独房の炎の外側にあるバルコニーのそばにあるようだ。",
+      "Angler's Eye Story Reel": "アンコウの眼の物語のリール",
+      "The slide reel shows an inhabitant using a vision torch to project some sort of terraform plan. He and two other inhabitants leave The Stranger and ended up crashing by Dark Bramble.": "スライドリールには、ビジョントーチを使用して何らかのテラフォーミング計画を投影する住人が映っている。その人物と他の2人の住人は流れ者を離れ、そして闇のイバラの近くに墜落した。",
+      "Vision Torch Text Reel": "ビジョントーチと文章のリール",
+      "Research House Slide Reel": "研究小屋のスライドリール",
+      "I found a slide reel on the second floor of the Research and Development House.": "研究開発小屋の2階でスライドリールを見つけた。",
+      "The slide reel shows an older inhabitant teaching a younger one how to read with a vision torch.": "スライドリールには、年配の住人がビジョントーチを使って年少の住人に読み方を教えている様子が映っている。",
+      "Crash Site": "墜落現場",
+      "Crash Site?": "墜落現場？",
+      "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?": "スライドリールに映っている住人のグループはアンコウの眼のどこかに墜落した。どこかに墜落現場があるのだろうか？",
       "Lone Plank": "Lone Plank",
       "I found a plank near the Research and Development House with some text on it.": "I found a plank near the Research and Development House with some text on it.",
       "The text says this is a crash site, but strangely, the ship is missing. It mentions the temperatures here are bearable, allowing the three inhabitants seen in the reels to survive for quite a while, with the help of emergency trees.": "The text says this is a crash site, but strangely, the ship is missing. It mentions the temperatures here are bearable, allowing the three inhabitants seen in the reels to survive for quite a while, with the help of emergency trees.",
-      "Signal House": "Signal House",
+      "Signal House": "信号小屋",
       "A signal is being emitted by some sort of signal tower on the north pole of Angler's Eye.": "A signal is being emitted by some sort of signal tower on the north pole of Angler's Eye.",
       "On the first floor of the signal house, there are several wires and a projection in the middle.": "On the first floor of the signal house, there are several wires and a projection in the middle.",
       "One of the texts on the wall reveals that the purpose of this station was to locate and contact The Stranger.": "One of the texts on the wall reveals that the purpose of this station was to locate and contact The Stranger.",
       "One of the texts on the wall reads out some sort of poem stanza...": "One of the texts on the wall reads out some sort of poem stanza...",
-      "Signal House Second Floor": "Signal House Second Floor",
-      "Secret Code": "Secret Code",
+      "Signal House Second Floor": "信号小屋の2階",
+      "Secret Code": "秘密のコード",
       "I can't get into the second floor of the Signal House! The entrance requires some sort of code for entry.": "I can't get into the second floor of the Signal House! The entrance requires some sort of code for entry.",
       "I unlocked the door to the second floor. There is a desk with a strange artifact and some writing on it.": "I unlocked the door to the second floor. There is a desk with a strange artifact and some writing on it.",
       "The text on the second floor of the Signal House reveals that a malfunctioning lightbulb inside the Bramble Museum synced itself up with a hidden door, which can be found with a flashlight. The closer the door is to opening, the darker the lightbulb gets.": "The text on the second floor of the Signal House reveals that a malfunctioning lightbulb inside the Bramble Museum synced itself up with a hidden door, which can be found with a flashlight. The closer the door is to opening, the darker the lightbulb gets.",
@@ -1438,7 +1439,7 @@
       "Distant Enigma": "Distant Enigma",
       "Distant Enigma Shard": "Distant Enigma Shard",
       "Homeworld Quantum Shard": "Homeworld Quantum Shard",
-      "UNKNOWN": "UNKNOWN",
+      "UNKNOWN": "不明",
   
       "Skull": "頭蓋骨",
       "Mineral": "ミネラル",
@@ -1453,18 +1454,18 @@
       "Strangers' Homeworld": "Strangers' Homeworld"
     },
     "OtherDictionary": {
-      "SealDisplayName": "{0} Seal",
+      "SealDisplayName": "{0}のシール",
       "Skull": "頭蓋骨",
       "Mineral": "ミネラル"
     },
     "AchievementTranslations": {
       "tsta_thevision": {
         "Name": "The Vision",
-        "Description": "Use the Vision Torch on Solanum."
+        "Description": "ビジョントーチをSolanumに使う"
       },
       "tsta_mindscapes": {
         "Name": "Mindscapes",
-        "Description": "Use the Vision Torch on Slate."
+        "Description": "ビジョントーチをSlateに使う"
       },
       "tsta_redpilled": {
         "Name": "Red Pilled",
