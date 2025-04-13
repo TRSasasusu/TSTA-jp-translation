@@ -91,7 +91,7 @@
       "There was an old story about an electric hurricane on the Scientist's base planet. I bet it has similar properties to the hazardous water around this vortex. I'm sure I've also heard that you can set it down and walk away from it a decent amount of meters away.": "窮理人の拠点惑星には電気ハリケーンに関する古い物語があった。それはこの渦の周りの危険な水と似た特性を持っていると思う。それを置いて何メートルか離れて歩いていくこともできると聞いた記憶がある。&lt;i&gt;&lt;/i&gt;",
   
       //2F_Wall1
-      "The Defense Ministry has ordered us to extract the electric fluid for their weapons. Why do we even need weapons? Are we really in danger?": "防衛省は彼らの武器のために電気液体を抽出するよう命令した。なぜ武器が必要なのだろう？本当に危険な状況にあるのだろうか？&lt;i&gt;&lt;/i&gt;",
+      "The Defense Ministry has ordered us to extract the electric fluid for their weapons. Why do we even need weapons? Are we really in danger?": "防衛機関は彼らの武器のために電気液体を抽出するよう命令した。なぜ武器が必要なのだろう？本当に危険な状況にあるのだろうか？&lt;i&gt;&lt;/i&gt;",
   
       //2F_Wall2
       "Perhaps we are, and they're keeping it classified to keep us under control. Maybe it's best we follow their orders, to protect our homeworld.": "もしかすると本当に危険なのかもしれないし、統制を保つために機密にしているのかもしれない。故郷を守るためには、命令に従うのが最善かもしれない。&lt;i&gt;&lt;/i&gt;",
@@ -113,7 +113,7 @@
   
       //2F_Table
       "We have detected an alien anomaly in the now overgrown ice planet, likely inside its dimensions. We must prepare in case some horrifying beast tries to pose a threat to our homeworld. We must not lose it again!": "現在過剰に成長した氷の惑星にて、おそらくその空間内に異種族の異常が検出された。恐ろしい獣が我々の故郷を脅かす可能性に備えなければならない。二度と故郷を失うわけにはいかない！&lt;i&gt;&lt;/i&gt;",
-      "In order to respond to anomalies like the one that just happened, today I announce the founding of the Ministry of Defense!": "先ほど起きたような異常に対応するため、本日防衛省の設立を宣言する！&lt;i&gt;&lt;/i&gt;",
+      "In order to respond to anomalies like the one that just happened, today I announce the founding of the Ministry of Defense!": "先ほど起きたような異常に対応するため、本日防衛機関の設立を宣言する！&lt;i&gt;&lt;/i&gt;",
       "All of our nuclear arsenal is ready for defense! We are prepared for Operation Phoenix.": "我々の核兵器庫はすべて防衛準備が整っている！作戦フェニックスの準備は完了した。&lt;i&gt;&lt;/i&gt;",
   
       //Table
@@ -1375,16 +1375,16 @@
       "A piece of text on the table reveals The Scientist and The Prisoner are brothers!": "A piece of text on the table reveals The Scientist and The Prisoner are brothers!",
   
       //strandedvessel
-      "Stranded Vessel": "Stranded Vessel",
-      "There is a beaten up Nomai Vessel on the outskirts of this star system.": "There is a beaten up Nomai Vessel on the outskirts of this star system.",
-      "Communication Boards": "Communication Boards",
-      "On the Vessel's incoming message board, other Nomai clans try to check in with this Vessel's clan. Due to a threatening message, the Nomai placed a no-warp zone around our solar neighborhood!": "On the Vessel's incoming message board, other Nomai clans try to check in with this Vessel's clan. Due to a threatening message, the Nomai placed a no-warp zone around our solar neighborhood!",
-      "On the Vessel's outgoing message board, there is some poorly written Nomai message. The message threatens Nomai and other travelers not to warp to this system.": "On the Vessel's outgoing message board, there is some poorly written Nomai message. The message threatens Nomai and other travelers not to warp to this system.",
-      "Vessel Vision": "Vessel Vision",
-      "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.",
-      "Stranded Vessel Coordinates": "Stranded Vessel Coordinates",
-      "The Stranded Vessel's hologram shows a set of coordinates.": "The Stranded Vessel's hologram shows a set of coordinates.",
-      "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.",
+      "Stranded Vessel": "漂流船",
+      "There is a beaten up Nomai Vessel on the outskirts of this star system.": "この星系の外縁に打ちのめされたNomaiの船がある。",
+      "Communication Boards": "通信台",
+      "On the Vessel's incoming message board, other Nomai clans try to check in with this Vessel's clan. Due to a threatening message, the Nomai placed a no-warp zone around our solar neighborhood!": "船の受信メッセージボードでは、他のNomaiの部族がこの船の部族に連絡を取ろうとしていた。しかし威圧的なメッセージを受信したため、Nomaiは私たちの太陽系近隣にワープ禁止区域を設けた！",
+      "On the Vessel's outgoing message board, there is some poorly written Nomai message. The message threatens Nomai and other travelers not to warp to this system.": "船の送信メッセージボードには、不慣れな手つきで書かれたNomaiのメッセージがある。そのメッセージはNomaiやその他の旅人にこの星系へワープしないよう威圧している。",
+      "Vessel Vision": "船で見た幻影",
+      "According to a vision I saw on the Stranded Vessel, the Strangers burnt all the Nomai in the Vessel alive! They also wrote that outgoing threat message with the vision torch and one of the Nomai staffs.": "漂流船で見た幻影によると、流れ者の住人たちは船内のNomai全員を生きたまま焼いた！彼らはまた、ビジョントーチとNomaiのつえの一つを使ってあの威圧的な送信メッセージを書いた。",
+      "Stranded Vessel Coordinates": "漂流船の座標",
+      "The Stranded Vessel's hologram shows a set of coordinates.": "漂流船のホログラムは座標を示している。",
+      "According to a Nomai recording, the coordinates displayed are the coordinates used to warp here. Apparently, these coordinates were supposed to be a rough esitmate of Escall's location.": "Nomaiの記録によると、表示されている座標はここにワープするために使用された座標だ。どうやら、これらの座標はEscallの位置を大まかに推定したものだったようだ。",
   
       //TIMBER_HEARTH
       "Timber Hearth Vision Torch": "Timber Hearth Vision Torch",
@@ -1397,29 +1397,29 @@
       "Slate sounded horrified when I told them about our kind being eaten by the three inhabitants that visited. I think they've gone vegan!": "Slate sounded horrified when I told them about our kind being eaten by the three inhabitants that visited. I think they've gone vegan!",
   
       //volcano
-      "Burning Bombardier": "Burning Bombardier",
-      "Volcano Moon?": "Volcano Moon?",
-      "Orbiting the crimson gas giant is a volcanic moon. Could there perhaps be something on it?": "Orbiting the crimson gas giant is a volcanic moon. Could there perhaps be something on it?",
-      "Burning Bombardier is Velvet Vortex's volcanic moon.": "Burning Bombardier is Velvet Vortex's volcanic moon.",
-      "If you reach a low enough elevation, you will start taking heat damage.": "If you reach a low enough elevation, you will start taking heat damage.",
-      "Burning Bombardier Base": "Burning Bombardier Base",
-      "Base on Burning Bombardier?": "Base on Burning Bombardier?",
-      "Pine said there was a base somewhere on Velvet Vortex's Moon.": "Pine said there was a base somewhere on Velvet Vortex's Moon.",
-      "There is a base wedged in between two volcanoes on Burning Bombardier.": "There is a base wedged in between two volcanoes on Burning Bombardier.",
-      "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.": "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.",
-      "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".": "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".",
-      "An anomaly from Dark Bramble caused panic within the system, several inhabitants fearing another loss of their homeworld.": "An anomaly from Dark Bramble caused panic within the system, several inhabitants fearing another loss of their homeworld.",
-      "A clock in the military base shows every 11 minutes with a symbol.": "A clock in the military base shows every 11 minutes with a symbol.",
-      "The text here says the desert planet will lose its atmosphere at \"star time\".": "The text here says the desert planet will lose its atmosphere at \"star time\".",
-      "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".",
-      "Burning Bombardier Seal": "Burning Bombardier Seal",
-      "Volcano Moon Socket?": "Volcano Moon Socket?",
-      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.",
-      "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure..."
+      "Burning Bombardier": "烈火の爆撃手",
+      "Volcano Moon?": "火山月？",
+      "Orbiting the crimson gas giant is a volcanic moon. Could there perhaps be something on it?": "真っ赤な巨大ガス惑星を周回する火山月。その上に何かあるのだろうか？",
+      "Burning Bombardier is Velvet Vortex's volcanic moon.": "烈火の爆撃手はビロードの息吹の火山月だ。",
+      "If you reach a low enough elevation, you will start taking heat damage.": "ある程度低い高度に降りると、熱によるダメージを受け始めてしまう。",
+      "Burning Bombardier Base": "烈火の爆撃手の基地",
+      "Base on Burning Bombardier?": "烈火の爆撃手の基地？",
+      "Pine said there was a base somewhere on Velvet Vortex's Moon.": "Pineはビロードの息吹の月のどこかに基地があると言っていた。",
+      "There is a base wedged in between two volcanoes on Burning Bombardier.": "烈火の爆撃手の2つの火山の間に挟まれた場所に基地がある。",
+      "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.": "流れ者の住人たちはちょうど発生したような“異常”に対応するため、防衛機関を設立した。",
+      "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".": "住人たちは“作戦フェニックス”のためにいくつかの核弾頭を製造したと主張している。",
+      "An anomaly from Dark Bramble caused panic within the system, several inhabitants fearing another loss of their homeworld.": "闇のイバラからの異常が星系内にパニックを引き起こし、何人かの住人は再び故郷を失うことを恐れた。",
+      "A clock in the military base shows every 11 minutes with a symbol.": "戦争基地の時計は11分ごとに記号を指す。",
+      "The text here says the desert planet will lose its atmosphere at \"star time\".": "ここの文章は砂漠の惑星が“星の時間”に大気を失うと述べている。",
+      "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "この文章は“封印”について言及しており、“環の時間”に溶岩によって焼かれるとのことだ。",
+      "Burning Bombardier Seal": "烈火の爆撃手の封印",
+      "Volcano Moon Socket?": "火山月のソケット？",
+      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "環の巨人で放棄された構造物を見た。スロットの一つには火山のガス巨星が描かれている。",
+      "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "火山の一つの中に四角い金属片を見つけた。それは構造物にぴったり合いそうだ…"
     },
   
     "UIDictionary": {
-      "AnonymousStrangerOW.StrangerSystem": "Stranger System",
+      "AnonymousStrangerOW.StrangerSystem": "流れ者の星系",
   
       "Musician": "Musician",
       "Strangers' Probe": "Strangers' Probe",
