@@ -1421,42 +1421,42 @@
     "UIDictionary": {
       "AnonymousStrangerOW.StrangerSystem": "流れ者の星系",
   
-      "Musician": "Musician",
-      "Strangers' Probe": "Strangers' Probe",
+      "Musician": "演奏人",
+      "Strangers' Probe": "流れ者の探査機",
       "Strange Frequency": "流れの周波数",
       "Timber Hearth Vision Torch": "木の炉辺のビジョントーチ",
-      "Signal House": "Signal House",
-      "Bramble Base": "Bramble Base",
-      "Unnerving Fluctuations": "Unnerving Fluctuations",
-      "Burning Bombardier Seal": "Burning Bombardier Seal",
-      "Distant Enigma Seal": "Distant Enigma Seal",
-      "Sizzling Sands Seal": "Sizzling Sands Seal",
-      "Velvet Vortex Seal": "Velvet Vortex Seal",
-      "Ringed Giant Seal": "Ringed Giant Seal",
-      "Stranded Vessel Signal": "Stranded Vessel Signal",
-      "Pine's Signal": "Pine's Signal",
-      "Arcadia's Signal": "Arcadia's Signal",
-      "Bush's Signal": "Bush's Signal",
-      "Bark's Signal": "Bark's Signal",
-      "Distant Enigma": "Distant Enigma",
-      "Distant Enigma Shard": "Distant Enigma Shard",
-      "Homeworld Quantum Shard": "Homeworld Quantum Shard",
+      "Signal House": "信号小屋",
+      "Bramble Base": "イバラ基地",
+      "Unnerving Fluctuations": "不気味なゆらぎ",
+      "Burning Bombardier Seal": "烈火の爆撃手の封印",
+      "Distant Enigma Seal": "隔絶のエニグマの封印",
+      "Sizzling Sands Seal": "焼けつく砂の封印",
+      "Velvet Vortex Seal": "ビロードの息吹の封印",
+      "Ringed Giant Seal": "環の巨人の封印",
+      "Stranded Vessel Signal": "漂流船の信号",
+      "Pine's Signal": "Pineの信号",
+      "Arcadia's Signal": "Arcadiaの信号",
+      "Bush's Signal": "Bushの信号",
+      "Bark's Signal": "Barkの信号",
+      "Distant Enigma": "隔絶のエニグマ",
+      "Distant Enigma Shard": "隔絶のエニグマのかけら",
+      "Homeworld Quantum Shard": "故郷の量子のかけら",
       "UNKNOWN": "不明",
   
       "Skull": "頭蓋骨",
       "Mineral": "ミネラル",
   
       "Angler's Eye": "アンコウの眼",
-      "Ringed Laboratory": "Ringed Laboratory",
-      "Nearest Neighbor": "Nearest Neighbor",
-      "Velvet Vortex": "Velvet Vortex",
-      "Burning Bombardier": "Burning Bombardier",
-      "Sizzling Sands": "Sizzling Sands",
-      "Ringed Giant": "Ringed Giant",
-      "Strangers' Homeworld": "Strangers' Homeworld"
+      "Ringed Laboratory": "環の研究所",
+      "Nearest Neighbor": "最近隣の星",
+      "Velvet Vortex": "ビロードの息吹",
+      "Burning Bombardier": "烈火の爆撃手",
+      "Sizzling Sands": "焼けつく砂",
+      "Ringed Giant": "環の巨人",
+      "Strangers' Homeworld": "流れ者の故郷"
     },
     "OtherDictionary": {
-      "SealDisplayName": "{0}のシール",
+      "SealDisplayName": "{0}の封印",
       "Skull": "頭蓋骨",
       "Mineral": "ミネラル"
     },
@@ -1470,36 +1470,36 @@
         "Description": "ビジョントーチをSlateに使う"
       },
       "tsta_redpilled": {
-        "Name": "Red Pilled",
-        "Description": "Activate simulation mode permanently."
+        "Name": "レッドピル",
+        "Description": "模擬現実モードを永続的に起動する"
       },
       "tsta_ghostbusters": {
-        "Name": "Ghostbuster",
-        "Description": "Remove all of the simulation's residents."
+        "Name": "ゴーストバスター",
+        "Description": "模擬現実の住人をすべて削除する"
       },
       "tsta_sudormrf": {
         "Name": "sudo rm -rf /*",
         "Description": "No such file or directory."
       },
       "tsta_followyourdreams": {
-        "Name": "Follow Your Dreams",
-        "Description": "Reach a certain planet before learning the Strangers' Language."
+        "Name": "夢を追いかけて",
+        "Description": "流れ者の言語を学ぶ前に特定の惑星に到達する"
       },
       "tsta_allornothing": {
-        "Name": "All or Nothing",
-        "Description": "Get all five seals in a single loop."
+        "Name": "伸るか反るか",
+        "Description": "一つのループで5つの封印をすべて入手する"
       },
       "tsta_ernesto": {
         "Name": "Scholar of Ernesto",
-        "Description": "Find Ernesto."
+        "Description": "Ernestoを見つける"
       },
       "tsta_gettrolled": {
-        "Name": "Get Trolled!",
-        "Description": "Get yourself trolled."
+        "Name": "釣られた！",
+        "Description": "アンコウに釣られた"
       },
       "tsta_gangnam": {
-        "Name": "Oppan Stranger Style!",
-        "Description": "Find Stranger Style"
+        "Name": "オッパは流れ者スタイル！",
+        "Description": "流れ者スタイルを見つける"
       }
     }
   }
