@@ -12,7 +12,7 @@
       "Day 43: I scanned the fish with my vision torch. It says these fish will evolve into an intelligent species, and that one individual will be able to make it here. Interesting...": "43日目:ビジョントーチでこの魚をスキャンした。すると、この魚は知的生命体に進化し、そのうちの1個体がここに到達できるそうだ。興味深い…。&lt;i&gt;&lt;/i&gt;",
   
       //Wall1
-      "Our conservatory should be just enough to produce healthy seeds for the next 5 years. That is more than enough time that we need to finish the terraforming.": "我々の温室は今後5年間にわたって健康な種子を生産するのにちょうど足りうる。これはテラフォーミングを完了するのに必要な時間として十分すぎるほどだ。&lt;i&gt;&lt;/i&gt;",
+      "Our conservatory should be just enough to produce healthy seeds for the next 5 years. That is more than enough time that we need to finish the terraforming.": "我々の温室は今後5年間にわたって良好な種子を生産するのにちょうど足りうる。これはテラフォーミングを完了するのに必要な時間として十分すぎるほどだ。&lt;i&gt;&lt;/i&gt;",
   
       //Wall2
       "Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high.": "次に、水を流さば、我らの木々は再び生い茂らん。天上の水を求めよ、環の巨人の高き所より。",
@@ -330,7 +330,7 @@
       "What are you working on?": "何をしてるの？&lt;i&gt;&lt;/i&gt;",
       "Did you know your star is going to die?": "あなたたちの恒星が死にそうなのを知ってる？&lt;i&gt;&lt;/i&gt;",
       "Where can I explore in this star system?": "この星系ではどこを探索できる？&lt;i&gt;&lt;/i&gt;",
-      "You remind me of my friend Hornfels, one of the heads of our space program.": "あなたは私の友人Hornfelsに似てるかも。私たちの宇宙プログラムの責任者の1人なんだ。&lt;i&gt;&lt;/i&gt;",
+      "You remind me of my friend Hornfels, one of the heads of our space program.": "あなたを見てると私の友人Hornfelsを思い出す。私たちの宇宙プログラムの責任者の1人なんだ。&lt;i&gt;&lt;/i&gt;",
       "Just saying hi!": "ただ挨拶しに来ただけ！&lt;i&gt;&lt;/i&gt;",
       "I am Twig, head of our space program. One we just re-founded a year or so ago.": "私はTwig、私らの宇宙プログラムの責任者だ。約1年前に再設立したばかりだがな。&lt;i&gt;&lt;/i&gt;",
       "Hundreds and thousands of years ago, we used to have an active presence in space a few generations after our Scientist re-terraformed everything.": "何十万年も前、私たちの窮理人がすべてを再テラフォーミングした数世代後、私らは宇宙に活発な存在感を持っていた。&lt;i&gt;&lt;/i&gt;",
@@ -349,7 +349,7 @@
       "No, just give up and die.": "いや、諦めて死を受け入れるんだ。&lt;i&gt;&lt;/i&gt;",
       "Well, I sent out a probe out to interstellar space with all of our information on it. When we're all dead, there's no alien invasion to worry about, right?": "私らの情報をすべて搭載した探査機を星間空間に送ったんだ。私らが皆死んでしまえば、異星人の侵略を心配する必要もなくなるからね？&lt;i&gt;&lt;/i&gt;",
       "Can I find it?": "それは私にも見つけられる？&lt;i&gt;&lt;/i&gt;",
-      "Yeah, true.": "ああ、できるよ。",
+      "Yeah, true.": "ああ、わかった。",
       "No I will not! What else is there to do? Go bother someone else with that attitude!": "絶対にそんなことはしないぞ！他に何ができるというんだ？そんな態度で他の誰かを困らせに行け！&lt;i&gt;&lt;/i&gt;",
       "If you want to find it, it has a signal on it. That is, if your kind has that technology yet.": "もし見つけたいなら、それには信号がある。もちろん、あなたの種族がまだその技術を持っているならの話だけどね。&lt;i&gt;&lt;/i&gt;",
       "Okay, thanks!": "わかった、ありがとう！",
@@ -609,7 +609,7 @@
       "Surfing really brings me at peace...": "サーフィンは本当に心を穏やかにしてくれる…&lt;i&gt;&lt;/i&gt;",
       "Is there anything else to explore here?": "ここでは何か探索するものはある？&lt;i&gt;&lt;/i&gt;",
       "Do you know anything about this planet's moon?": "この惑星の月について何か知ってる？&lt;i&gt;&lt;/i&gt;",
-      "You remind me of my friend Gabbro who's always calm and zen.": "あなたはいつも穏やかで禅の精神を持つ私の友人Gabbroに似てるかも。&lt;i&gt;&lt;/i&gt;",
+      "You remind me of my friend Gabbro who's always calm and zen.": "あなたを見るといつも穏やかで禅の精神を持つ私の友人Gabbroを思い出す。&lt;i&gt;&lt;/i&gt;",
       "Just saying hi.": "ただ挨拶しに来ただけ。&lt;i&gt;&lt;/i&gt;",
       "You going to get off my raft yet?": "まだ私のイカダから降りないつもりかな？&lt;i&gt;&lt;/i&gt;",
       "There's quite a few things actually, other than myself.": "実は、かなりたくさんのものがある。私そのもの以外にもね。&lt;i&gt;&lt;/i&gt;",
@@ -630,7 +630,7 @@
       "Hey, on the bright side, that crash wasn't cool enough...": "まあ、明るい面から見れば、あの墜落はそれほどクールじゃなかった…&lt;i&gt;&lt;/i&gt;",
       "What can I do here?": "ここで何ができる？&lt;i&gt;&lt;/i&gt;",
       "The atmosphere of this planet will be stripped off in just 23 minutes!": "この惑星の大気はあと23分で剥ぎ取られる！&lt;i&gt;&lt;/i&gt;",
-      "You remind me of my friend Feldspar who can take on anything.": "あなたは何でも挑戦できる私の友人Feldsparに似てるかも。&lt;i&gt;&lt;/i&gt;",
+      "You remind me of my friend Feldspar who can take on anything.": "あなたを見てると何でも挑戦できる私の友人Feldsparを思い出す。&lt;i&gt;&lt;/i&gt;",
       "Anything else you want to tell me?": "他に何か教えてくれることはある？&lt;i&gt;&lt;/i&gt;",
       "I don't know, this place is pretty boring, there's not even an old lab like the other planets have.": "わからない、ここはかなり退屈だ。他の惑星にあるような古い研究所さえない。&lt;i&gt;&lt;/i&gt;",
       "Oh yeah, anything past that equator is fatal! You will burn to death on the sun-facing side!": "ああ、そうだ、あの赤道を超えると致命的だ！太陽に面するところでは焼け死んでしまう！&lt;i&gt;&lt;/i&gt;",
@@ -944,7 +944,7 @@
       "My children, may you forever be remembered. The oldest passed on that cloaked moon. My youngest, only an infant, passed away on my kind's ship. Both died due to lack of nutrients that our kin's ship lacked.": "我が子たちよ、永遠に記憶されますように。長子はあの隠された月で亡くなり、末子はまだ幼くして同胞の船上で亡くなりました。どちらも同胞の船に欠けていた栄養素の不足により亡くなりました。&lt;i&gt;&lt;/i&gt;",
       "Day 271: Everything that I've thought of, everything that I've dreamed of, it's all come to reality. Despite all the losses and sorrow, I pushed on and even pulled it off. The terraforming process is now complete, and our home is now good as new!": "271日目:私が考えたすべて、夢見たすべてが現実となった。すべての喪失と悲しみにもかかわらず、私は前進し、それを成し遂げた。テラフォーミングのプロセスは今完了し、我々の故郷は新品同様だ！&lt;i&gt;&lt;/i&gt;",
       "If only my children and the rest of my kind were around to see this, especially my imprisoned brother. Had you left with me instead of obsessing over <![CDATA[<color=blue>that vortex</color>]]>, you would be free and back home with me.": "もし我が子たちと同胞の残りが、特に投獄された弟がこれを見ることができればよかったのだが。<![CDATA[<color=blue>あの渦</color>]]>に執着する代わりに私と一緒に去っていれば、お前は自由で私と一緒に故郷へ帰っていただろうに。&lt;i&gt;&lt;/i&gt;",
-      "Day 230: Good news! Our trees are healthy and ready to be planted! The terraforming process is going smoothly now!": "230日目:朗報だ！我々の木々は健康で、植える準備ができている！テラフォーミングのプロセスは現在順調に進んでいる！&lt;i&gt;&lt;/i&gt;",
+      "Day 230: Good news! Our trees are healthy and ready to be planted! The terraforming process is going smoothly now!": "230日目:朗報だ！我々の木々は良好で、植える準備ができている！テラフォーミングのプロセスは現在順調に進んでいる！&lt;i&gt;&lt;/i&gt;",
   
       //NOM_IncomingMsg
       "FUCHSIA: Hello? Agapanthus? Ixora? Are you guys okay?": "FUCHSIA:もしもし？Agapanthus？Ixora？大丈夫ですか？&lt;i&gt;&lt;/i&gt;",
@@ -983,7 +983,7 @@
       "Thank you, Hatchling! Let me know what you find!": "ありがとうひよっ子！何か見つけたら教えてくれ！&lt;i&gt;&lt;/i&gt;",
       "Uh....what? I have no idea what you just said but you have no need to take it out on me!": "え…何だ？お前が今なんて言ったのかまったくわからないが、私にやつあたりしないでくれ！&lt;i&gt;&lt;/i&gt;",
       "Nevermind I'll find it.": "気にしないで。見つけてくるよ。",
-      "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "滝の音の方が大きいのと関係がありそうだし、それに昨日はお前の冒険のためにシグナルスコープをアップグレードしたばかりだ。それで、私のために見つけてきてくれないか、ひよっ子？&lt;i&gt;&lt;/i&gt;"
+      "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "滝の音の方が大きいのと関係がありそうだし、それに昨日はお前の冒険のためにシグナルスコープをアップグレードしたばかりだ。それで、私のために見つけてきてくれないか、ひよっ子？&lt;i&gt;&lt;/i&gt;",
 
       //SlateRemote2
       "Wait Hatchling! Before you go!": "待てひよっ子！その前に！&lt;i&gt;&lt;/i&gt;",
@@ -1066,7 +1066,7 @@
       "The Conservatory building consists of a few empty fish tanks and a handful of trees.": "温室の建物には魚の水タンクと数本の木がある。",
       "Just like I saw on the Timber Hearth slide reel, the inhabitants on this planet survived off of eating primitive Hearthians.": "木の炉辺のビジョントーチで見たように、ここの住人はHearthianの祖先を食べて生き延びていた。",
       "According to a message written on the Conservatory's desk, they found out about the Hearthian future, and knew that I would come here.": "温室のデスクに書かれた文章によると、彼らはHearthianの未来および私がここに来ることを知っていたようだ。",
-      "According to a message on the second floor, the purpose of the Conservatory is meant to produce healthy seeds for the terraform plan.": "2階にある文章によると、温室の目的はテラフォーミング計画のための健康な種子を生産することだ。",
+      "According to a message on the second floor, the purpose of the Conservatory is meant to produce healthy seeds for the terraform plan.": "2階にある文章によると、温室の目的はテラフォーミング計画のための良好な種子を生産することだ。",
       "Mining Hole": "採掘穴",
       "There is a mining hole not far from the south pole. A pickaxe and several rocks are seen there.": "南極からそう遠くないところに採掘用の穴がある。そこにはつるはしといくつかの岩がある。",
       "The text at the bottom of the hole says that it was to get resources for The Stranger's cloaking device. It can also be used as fuel.": "穴の底の文章によると、ここは流れ者のクローキング装置用の資源を入手するための場所だ。それは燃料としても利用できる。",
@@ -1260,14 +1260,14 @@
       "Isolated Swamp": "孤立したぬかるみ",
       "Hidden Path in Simulation": "模擬現実の隠された道",
       "According to a slide reel I found inside the Signal House on Angler's Eye, there is a secret path near the peephole in the fourth sector of the simulation.": "アンコウの眼の信号小屋で見つけたスライドリールによると、模擬現実の第4区域ののぞき穴付近に秘密の道があるらしい。",
-      "There is a fourth sector in the simulation I have never noticed before. It has a few houses built on top of the lake.": "模擬現実には今まで気づかなかった第4区域の場所がある。そこには湖の上に建てられた数軒の家がある。",
+      "There is a fourth sector in the simulation I have never noticed before. It has a few houses built on top of the lake.": "模擬現実には今まで気づかなかった第4区域の場所がある。そこには湖の上に建てられたいくつかの家がある。",
       "I saw some glitched tiles wrapping around the buildings in the area.": "この地域の建物の周りにグリッチしたタイルがあるのを見た。",
       "Simulated Research House": "模擬現実の研究小屋",
       "In the new simulation area, there is a fixed-up version of the Research and Development House on Angler's Eye.": "新しい模擬現実エリアには、アンコウの眼にある研究開発小屋の修復版がある。",
       "This new area was coded in by the Scientist on Angler's Eye when he visited The Stranger.": "この新しいエリアは、窮理人がアンコウの眼から流れ者を訪れた際にコーディングしたものだ。",
       "The Scientist did not feel comfortable about the simulation's life preserving abilities.": "窮理人は模擬現実の生命保存能力に対して不快感を覚えていた。",
-      "According to the Scientist, his kind were still homesick in the simulation of their homeland and realized the only thing he could do to help was to put them in a permanant coma.": "窮理人によると、彼の同胞は故郷の模擬現実の中でもなお懐古にふけっており、彼らを助けるためにできる唯一のことは永久的な昏眠状態に置くことだと気づいた。",
-      "A memorial dedicated to The Scientist and his family are on the second floor. Both his children died by lack of nutrients from The Stranger.": "2階には窮理人とその家族に供えられた記念碑がある。彼の子供たちは2人とも流れ者での栄養不足で亡くなった。",
+      "According to the Scientist, his kind were still homesick in the simulation of their homeland and realized the only thing he could do to help was to put them in a permanant coma.": "窮理人によると、彼の種族は故郷の模擬現実の中でもなお懐古にふけっており、彼らを助けるためにできる唯一のことは永久的な昏眠状態に置くことだと気づいた。",
+      "A memorial dedicated to The Scientist and his family are on the second floor. Both his children died by lack of nutrients from The Stranger.": "2階には窮理人とその家族に供えられた記念碑がある。彼の子供たちは2人とも流れ者での食料不足で亡くなった。",
       "Simulated Theater": "模擬現実の映写室",
       "In the new simulation area, there is a fixed-up version of the Theater House on Angler's Eye.": "新しい模擬現実エリアには、アンコウの眼にある映写室の修復版がある。",
       "A thief stole some of the slides to burn them! According to the text I found in the Theater House, he ran to the left after running out the front door.": "スリがスライドリールをいくつか取って燃やそうとした！映写室で見つけた文章によると、スリは正面の扉から出た後、左へ走ったという。",
@@ -1286,7 +1286,7 @@
       "Accroding to a message on the table, The Scientist made this archive to preserve all the slide reels, but this \"leader\" ordered him to have it guarded.": "テーブルの文章によると、窮理人はすべてのスライドリールを保存するためにこの記録保管所を作ったが、“指導者”はそれを監視下に置くよう命じたという。",
       "Accroding to a message on the table, The Scientist explains how the coma hall works, but also brings up how popular it was. This explains where all the others went that I haven't seen in the other areas.": "テーブルの文章で窮理人は昏眠ホールの仕組みを説明すると同時に、それがどれほど人気だったかも述べている。これは、他のエリアで見かけなかったその他大勢の行方を説明している。",
       "Prisoner's Breakdown Reel": "囚人の精神崩壊リール",
-      "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "このスライドリールには、窮理人がアンコウの眼に墜落するのを見た後、涙に暮れる囚人をはじめとする住人たちが映っている。囚人は眼の神殿から飛び降りそうになったが、眼のシンボルを見たことで何かが湧き起こり、思いとどまった…",
+      "This slide reel shows The Prisoner among others breaking down in tears after watching The Scientist crash into Angler's Eye. The Prisoner almost jumped off the Eye Shrine, but seeing The Eye Symbol sparked something in him to stop...": "このスライドリールには、窮理人がアンコウの眼に墜落するのを見た後、嘆き悲しむ囚人をはじめとする住人たちが映っている。囚人は眼の神殿から飛び降りそうになったが、眼のシンボルを見たことで何かが湧き起こり、思いとどまった…",
       "Scientist Data Clone": "窮理人のデータクローン",
       "I met a data clone of The Scientist in the Isolated Swamp Archives!": "孤立したぬかるみの記録保管所で窮理人のデータクローンに会った！",
       "An inhabitant in the Archives used the Vision Torch to learn my language.": "記録保管所にいる住人がビジョントーチを使って私の言語を学んだ。",
@@ -1382,7 +1382,7 @@
       "This laboratory is orbiting around the Ringed Giant! It must be a station used for terraforming!": "この研究所は環の巨人を周回している！テラフォーミングに使われる拠点に違いない！",
       "Tree Room": "木の部屋",
       "There is a room with a single tree in it.": "中に一本の木が植えられた部屋がある。",
-      "A piece of text on the wall says the trees are healthy and are ready to be planted.": "壁には、木々は健康で植える準備ができていると書かれている。",
+      "A piece of text on the wall says the trees are healthy and are ready to be planted.": "壁には、木々は良好で植える準備ができていると書かれている。",
       "Terraform Plan": "テラフォーミング計画",
       "Terraform Plan?": "テラフォーミング計画？",
       "The text near the tree says that The Scientist's terraforming plan is going smoothly.": "木の近くにある文章によると、窮理人のテラフォーミング計画は順調に進んでいるという。",
@@ -1430,7 +1430,7 @@
       "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "この文章は“封印”について言及しており、“環の時間”に溶岩によって焼かれるとのことだ。",
       "Burning Bombardier Seal": "烈火の爆撃手の封印",
       "Volcano Moon Socket?": "火山月のソケット？",
-      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "環の巨人で放棄された構造物を見た。スロットの一つには火山のガス巨星が描かれている。",
+      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "環の巨人で放棄された構造物を見た。スロットの一つには火山月が描かれている。",
       "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "火山の一つの中に四角い金属片を見つけた。それは構造物にぴったり合いそうだ…"
     },
   
@@ -1469,7 +1469,8 @@
       "Burning Bombardier": "烈火の爆撃手",
       "Sizzling Sands": "焼けつく砂",
       "Ringed Giant": "環の巨人",
-      "Strangers' Homeworld": "流れ者の故郷"
+      "Strangers' Homeworld": "流れ者の故郷",
+      "Stranded Vessel": "漂流船"
     },
     "OtherDictionary": {
       "SealDisplayName": "{0}の封印",
