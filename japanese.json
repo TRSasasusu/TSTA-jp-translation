@@ -984,6 +984,22 @@
       "Uh....what? I have no idea what you just said but you have no need to take it out on me!": "え…何だ？お前が今なんて言ったのかまったくわからないが、私にやつあたりしないでくれ！&lt;i&gt;&lt;/i&gt;",
       "Nevermind I'll find it.": "気にしないで。見つけてくるよ。",
       "I think it might have something to do with the rush of the falls being louder than it, plus we just upgraded our signal scopes for your adventure yesterday. So will you find it for me Hatchling?": "滝の音の方が大きいのと関係がありそうだし、それに昨日はお前の冒険のためにシグナルスコープをアップグレードしたばかりだ。それで、私のために見つけてきてくれないか、ひよっ子？&lt;i&gt;&lt;/i&gt;"
+
+      //SlateRemote2
+      "Wait Hatchling! Before you go!": "待てひよっ子！その前に！&lt;i&gt;&lt;/i&gt;",
+      "Yeah, I've got the launch codes.": "ああ、発射コードは持ってるよ。&lt;i&gt;&lt;/i&gt;",
+      "I already know about the HUD Marker, Slate.": "HUDマーカーのことはもう知ってるよ、Slate。&lt;i&gt;&lt;/i&gt;",
+      "Slate, I already checked the waterfall.": "Slate、もう滝は調べたよ。&lt;i&gt;&lt;/i&gt;",
+      "No, that's not what I was going to say at all!": "いや、そんなことを言おうとしたんじゃない！&lt;i&gt;&lt;/i&gt;",
+      "I can already tell by the look on your face, but you seem annoyed about something.": "お前の表情を見ればわかるが、何かに困っているようだな。&lt;i&gt;&lt;/i&gt;",
+      "I don't know why, but my gut senses you're struggling to see where you're landing your ship.": "なぜかはわからないが、お前が探査艇をどこに着陸させるべきか苦労してるような気がする。&lt;i&gt;&lt;/i&gt;",
+      "H-How did you know?": "ど、どうしてわかったんだ？",
+      "I've been training pilots since we founded Outer Wilds Ventures. I know that face when I see it.": "Outer Wilds Venturesを設立して以来、私はパイロットを訓練してきた。その表情を見ればわかるんだ。&lt;i&gt;&lt;/i&gt;",
+      "You should have seen Riebeck's when we were training them! They had no idea where they were going at first.": "Riebeckを訓練していたときの顔を見るべきだった！あいつは最初、どこに向かってるのかまったくわからなかった。&lt;i&gt;&lt;/i&gt;",
+      "And do you know what I always told them? Just use your Little Scout to sense out the way! Shoot it at any surface and you can see where to land safely.": "あいつにいつも何と言っていたか知ってるか？リトル･スカウトを使って道を探れ！どんな表面であっても発射すれば、安全に着陸できる場所が見えるようになる。&lt;i&gt;&lt;/i&gt;",
+      "Hopefully that helped, Hatchling. I know you can do this.": "役に立ったといいが、ひよっ子。お前ならできる。&lt;i&gt;&lt;/i&gt;",
+      "Thanks, Slate! I'll put it to good use.": "ありがとう、Slate！うまく活用するよ。&lt;i&gt;&lt;/i&gt;",
+      "Anytime. Now say hi to the others for me, OK?": "どんなときでもだ。さあ、他の皆によろしく伝えてくれ、いいな？&lt;i&gt;&lt;/i&gt;"
     },
   
     "ShipLogDictionary": {
