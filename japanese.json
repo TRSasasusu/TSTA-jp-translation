@@ -69,7 +69,7 @@
       "Day 64: Unfortunately, I had to leave our ship. The others have gone insane, and refuse to leave this new simulation they built. There's nothing I can do to help them.": "64日目:残念だが、私は船を去らねばならなかった。他の者たちはもはや正気ではなくなり、彼らの構築した新しい模擬現実から出ることを拒絶している。彼らを助けるために私にできることは何もない。&lt;i&gt;&lt;/i&gt;",
   
       //2F_Desk
-      "For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need.": "古き世を再生させんには、かくの如き物を集め、然れば栄えん。全ての木は種子より始まる。陽光を与えよ、最も必要とするものなり。",
+      "For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need.": "古き世を再生させんとするには、かくの如き物を集め、然れば栄えん。全ての木は種子より始まる。陽光を与えよ、最も必要とするものなり。",
   
       //2F_Poster1
       "This hidden moon is orbiting around the fifth planet of this star system. Its origins are odd for something that should have come from its parent planet.": "この隠れた月はここの星系の第5惑星を周回している。その起源は親惑星から来たはずと考えると奇妙なものだ。&lt;i&gt;&lt;/i&gt;",
@@ -859,7 +859,7 @@
   
       //Exit
       "Exit to Angler's Eye (WARNING: You will have to walk the way back here when you leave!)": "アンコウの眼への出口(注意:ここから出るにはこの上を歩く必要があります！)&lt;i&gt;&lt;/i&gt;",
-      "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "Coma Hallでは全員が熟睡しているが、集中して静かに忍び込むだけでは十分ではない。どうやら物音だけでなくランタンの光も彼らを起こしてしまうようだ。&lt;i&gt;&lt;/i&gt;",
+      "Everyone is now sound asleep in the Coma Hall, but quietly sneaking through by holding focus isn't enough. It appears that not just noise wakes them, but also the artifact light.": "昏眠ホールでは全員が熟睡しているが、集中して静かに忍び込むだけでは十分ではない。どうやら物音だけでなくランタンの光も彼らを起こしてしまうようだ。&lt;i&gt;&lt;/i&gt;",
       "Anglerfish 101: Anglerfish are easier to not wake up if you go shipless. We think this is due to noise. If an emergency arises, ejecting yourself out of the ship will be handy.": "アンコウ101:船を使わずに移動するとアンコウは目覚めにくくなる。我々が考えるにこれは物音によるものだろう。ゆえにもし緊急事態が発生したなら船から脱出するとよいだろう。&lt;i&gt;&lt;/i&gt;",
       "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "アンコウ101:アンコウをよけるには対角方向にスラスターを使うことだ。また、アンコウの動きが見えたりうなり声が聞こえたりしたらすぐにスラスターを止めることだ。そうすれば追いかけられないで済む。そのまま通り過ぎてしまうかもしれない。&lt;i&gt;&lt;/i&gt;",
   
@@ -1030,8 +1030,8 @@
       "Crash Site": "墜落現場",
       "Crash Site?": "墜落現場？",
       "The group of inhabitants on the slide reel crashed on Angler's Eye somewhere. Could there be a crash site somewhere?": "スライドリールに映っている住人のグループはアンコウの眼のどこかに墜落した。どこかに墜落現場があるのだろうか？",
-      "Lone Plank": "1枚だけの板",
-      "I found a plank near the Research and Development House with some text on it.": "研究開発小屋の近くに何か文字の書かれた板を見つけた。",
+      "Lone Plank": "1枚だけの木片",
+      "I found a plank near the Research and Development House with some text on it.": "研究開発小屋の近くに何か文字の書かれた木片を見つけた。",
       "The text says this is a crash site, but strangely, the ship is missing. It mentions the temperatures here are bearable, allowing the three inhabitants seen in the reels to survive for quite a while, with the help of emergency trees.": "文章にはここが墜落現場であると書かれていたが、不思議なことに船は見当たらなかった。ここの気温は耐えられるものであり、リールに映っていた3人の住人は緊急用の木の助けを借りてかなり長い間生き延びることができたようだ。",
       "Signal House": "信号小屋",
       "A signal is being emitted by some sort of signal tower on the north pole of Angler's Eye.": "アンコウの眼の北極にある何らかの信号塔から信号が発されている。",
@@ -1057,7 +1057,7 @@
       "The text on the left of the table reads out some sort of poem stanza...": "デスクの左側の文章には何らかの詩の一節が書かれている…",
       "Poem": "詩",
       "I found a poem in one of the houses in Angler's Eye. It seemed unfinished.": "アンコウの眼にある建物で詩を見つけた。未完成のように見えた。",
-      "The first stanza in the Research House is \"For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need\".": "研究小屋にある最初の節は“古き世を再生させんには、かくの如き物を集め、然れば栄えん。全ての木は種子より始まる。陽光を与えよ、最も必要とするものなり”。",
+      "The first stanza in the Research House is \"For our old world to be revived, bring these things for it to thrive. Every tree begins as seed. Give it sun, its greatest need\".": "研究小屋にある最初の節は“古き世を再生させんとするには、かくの如き物を集め、然れば栄えん。全ての木は種子より始まる。陽光を与えよ、最も必要とするものなり”。",
       "The second stanza in the Conservatory is \"Next you shall let the water flow, only then will our trees regrow. Obtain the water above the sky, from the Ringed Giant way up high\".": "温室にある2番目の節は“次に、水を流さば、我らの木々は再び生い茂らん。天上の水を求めよ、環の巨人の高き所より”。",
       "The third stanza in the Theater House is \"With those two things, fresh air will flourish, so plants and animals can thrive and nourish. But best beware the spreading flames, the air might spark it all ablaze\".": "映写室にある3番目の節は“然る二つの物にて、純然たる気は満ちあふれ、草木命らは栄え育まれん。されど広がる炎に用心せよ、気は全てを燃え上がらせん”。",
       "The fourth stanza in the Bramble Museum is \"Fourth, keep out a watchful eye. Make sure our offspring does not die\".": "イバラ博物館にある4番目の節は“第4に、目を凝らし見守れ。我らの子孫が死なぬように”。",
@@ -1074,7 +1074,7 @@
       "A picture on the first floor's table shows the home moon of the Stranger's Inhabitants. The Stranger is X'd out, and other icons are sketched out.": "1階のテーブルにある図には、流れ者の住人の故郷である月が描かれている。流れ者はXで消され、他のアイコンは簡単に描かれている。",
       "A picture on the second floor shows the orbit of Angler's Eye.": "2階にはアンコウの眼の軌道が描かれた壁画がある。",
       "50 days after arriving, the author of the writing returned to The Stranger.": "到着から50日後、この文章の作者は流れ者へ戻った。",
-      "Disturbed at what they found, this inhabitant returned to Angler's Eye after finding their kind dead, trapped in the simulation.": "模擬現実に囚われて現実では死んだ同胞を見つけたことで動揺したこの住人はアンコウの眼へ戻った。",
+      "Disturbed at what they found, this inhabitant returned to Angler's Eye after finding their kind dead, trapped in the simulation.": "模擬現実に囚われて現実では死んだ仲間を見つけたことで動揺したこの住人はアンコウの眼へ戻った。",
       "To the left of the picture, the text says that the picture was a plan to terraform their home moon, and that doing so isn't impossible.": "図の左側の文章には、これは彼らの故郷である月をテラフォーミングする計画であり、それは不可能ではないと書かれていた。",
       "To the right of the picture, the text says that for whatever reason, The Stranger cannot be used. Water can be extracted from the Teal-Ringed Giant, and trees and transport are necessary.": "図の右側の文章には、何らかの理由で流れ者は使えないこと、ティール色の環の巨人から水は抽出できること、そして木および運ぶ手段が必要なことが書かれていた。",
       "Angler's Eye is in orbit around Dark Bramble. The Nomai must have never found it because they were too afraid of Dark Bramble.": "アンコウの眼は闇のイバラを周回している。Nomaiは闇のイバラを過度に恐れていたためここを見つけることができなかった。",
