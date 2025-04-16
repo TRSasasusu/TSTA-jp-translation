@@ -410,7 +410,7 @@
       "Day 63: Finally, everything from the three archives and the cloaked moon transferred. My work here on the ship is done.": "63日目:ようやく、3つの記録保管所と隠された月からすべてを転送できた。船での私の仕事は完了だ。&lt;i&gt;&lt;/i&gt;",
   
       //Reminder
-      "REMEMBER TO TAKE YOUR SLIDES AND YOUR ARTIFACT WITH YOU ON THE ELEVATOR BY SETTING THEM ON THE ELEVATOR FLOOR.": "スライドリールとランタンをエレベータの床に置くことで、一緒にエレベータに乗ることができることをお忘れなく。&lt;i&gt;&lt;/i&gt;",
+      "REMEMBER TO TAKE YOUR SLIDES AND YOUR ARTIFACT WITH YOU ON THE ELEVATOR BY SETTING THEM ON THE ELEVATOR FLOOR.": "スライドリールとランタンをエレベータの床に置くと一緒にエレベータに乗ることができることをお忘れなく。&lt;i&gt;&lt;/i&gt;",
   
       //ScientistDialogue
       "What an incredible species you are, and what an incredible language you speak. Am I speaking your language right and do you understand me clearly?": "あなたはなんと素敵な種族であり、なんと素敵な言語を話すのでしょう。私はあなたの言語を正しく話せているでしょうか？あなたは私の言うことをはっきりと理解されていますでしょうか？&lt;i&gt;&lt;/i&gt;",
@@ -496,12 +496,12 @@
       "If only I had the spinal column to warn him about building the ship. Maybe we wouldn’t be here now.": "もし私に船の建造について彼に警告する勇気があったなら。おそらく私たちは今ここにいないのでしょう。&lt;i&gt;&lt;/i&gt;",
       "Angler's Eye? If you're talking about the cloaked moon, then I like what you named it.": "アンコウの眼？もし隠された月のことを言っているなら、その名前は気に入りました。&lt;i&gt;&lt;/i&gt;",
       "When we discovered what the vortex would do to our universe, we went there to mine out minerals for our ship's cloak.": "渦が私たちの宇宙に何をするか発見した時、私たちは船の隠蔽装置のためのミネラルを採掘するためにそこへ行きました。&lt;i&gt;&lt;/i&gt;",
-      "We found it when we were scanning the other planets in your system, but we predicted the trajectory incorrectly.": "あなたの太陽系の他の惑星をスキャンしている時にそれを発見しましたが、軌道を誤って予測していました。&lt;i&gt;&lt;/i&gt;",
+      "We found it when we were scanning the other planets in your system, but we predicted the trajectory incorrectly.": "あなたの太陽系の他の惑星をスキャンしているときにそれを発見しましたが、軌道を誤って予測していました。&lt;i&gt;&lt;/i&gt;",
       "For the terraforming plan, I was told by the Council to check to see if our homeworld was able to be terraformed, but we ended up crashing into the cloaked moon on our way there.": "テラフォーミング計画では、評議会から故郷がテラフォーミング可能かどうかを確認するよう言われましたが、そこへ向かう途中で隠された月に墜落してしまいました。&lt;i&gt;&lt;/i&gt;",
       "The crash happened due to our false assumptions about its orbit.": "墜落はその軌道についての誤った想定のために起こりました。&lt;i&gt;&lt;/i&gt;",
       "As my time on the cloaked moon went on, I found out that it was an \"evil twin\" of the ghost moon. Instead of copying just the terrain, some of the properties from the planet get imbued into it.": "隠された月での時間が経つにつれ、それが幽霊月の“邪悪な双子”であることがわかりました。地形だけをコピーするのではなく、惑星のいくつかの特性がそれに吹き込まれています。&lt;i&gt;&lt;/i&gt;",
       "I've also noticed that when you hold one of the minerals of the planet when going into the hurricane, it will not harm you.": "また、ハリケーンに入るときにその惑星のミネラルの1つを持っていると、害を受けないことにも気づきました。&lt;i&gt;&lt;/i&gt;",
-      "Unlike most of my kind I've never been all too great at art. Never my skill set. I always like something more... tangible. Also slide reels are kind of clunky, too.": "私の種族の多くと違って、私は芸術が得意ではありませんでした。それは私の技能ではありません。私はいつも、もっと…実体のあるものが好きです。それに、スライドリールはかなり扱いにくいですしね。&lt;i&gt;&lt;/i&gt;",
+      "Unlike most of my kind I've never been all too great at art. Never my skill set. I always like something more... tangible. Also slide reels are kind of clunky, too.": "同胞の多くと違って、私は芸術が得意ではありませんでした。それは私の技能ではありません。私はいつも、もっと…実体のあるものが好きです。それに、スライドリールはかなり扱いにくいですしね。&lt;i&gt;&lt;/i&gt;",
       "A bit rude but sure, what happened after we entered this eternal sleep?": "少し無礼ですが、いいでしょう。私たちがこの永遠の眠りに入った後、何が起こったのですか？&lt;i&gt;&lt;/i&gt;",
       "So first there were this species called The Nomai...": "まず、Nomaiと呼ばれる種族がいた…&lt;i&gt;&lt;/i&gt;",
       "That icy planet Angler's Eye orbited? It's now Dark Bramble.": "アンコウの眼が周回していた氷の惑星かな？今は闇のイバラと呼ばれてる。&lt;i&gt;&lt;/i&gt;",
@@ -1278,7 +1278,7 @@
       "Isolated Swamp Archives": "孤立したぬかるみの記録保管所",
       "Coma Hall?": "昏眠ホール？",
       "Text in the Research and Development Building in the Isolated Swamp says a \"Coma Hall\" was built.": "孤立したぬかるみの研究開発小屋にある文章によると、“昏眠ホール”が建てられたという。",
-      "I found a long hallway with several strangers sleeping, with an elevator at the end. I was wondering where the rest went!": "複数の流れ者の住人たちが眠っている長い通路を見つけ、その奥にはエレベータがある。私は残りの者たちがどこに行ったのか疑問だったのだ！",
+      "I found a long hallway with several strangers sleeping, with an elevator at the end. I was wondering where the rest went!": "複数の流れ者の住人たちが眠っている長い通路を見つけた。その奥にはエレベータがある。私は残りの者たちがどこに行ったのか疑問だったのだ！",
       "In the Bramble Archives, a note by The Scientist warns that any use of light in the \"Coma Hall\" can wake up those sleeping in it.": "イバラ記録保管所にある窮理人の注意書きによると、“昏眠ホール”での光の使用は眠っている者たちを起こす可能性があるという。",
       "The elevator at the end of the hall takes me down to another forbidden archive!": "通路の奥にあるエレベータは、別の禁断の記録保管所へと下降する！",
       "In the archive, the elevator to the left takes me to a library filled with slide reels involving the history of the inhabitants.": "記録保管所内の左側のエレベータは、住人たちの歴史に関するスライドリールが並ぶ図書室へと通じている。",
