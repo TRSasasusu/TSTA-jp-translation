@@ -1052,6 +1052,7 @@
       "An eerie, green fire and some beds lie in the basement of the Dark Bramble Museum.": "闇のイバラ博物館の地下には不気味な緑色の炎といくつかの寝台がある。",
       "According to some text, this is a simulation meant to preserve the fifth planet before it became Dark Bramble. Some archived slides have also been sent there.": "文章によると、これは闇のイバラになる前の第5惑星を保存するための模擬現実のようだ。保管されたスライドリールもいくつかそこに送られている。",
       "There is a mineral at the bottom of the mines that can be picked up.": "採掘場の底には拾えるミネラルがある。",
+      "There is a mineral atop the table in the Bramble Museum's basement that can be picked up.": "イバラ博物館の地下にあるテーブルの上には拾えるミネラルがある。",
       "Angler's Eye Theater": "アンコウの眼の映写室",
       "There is a Theater House on Angler's Eye for the purpose of watching slide reels.": "アンコウの眼にはスライドリールを見るための映写室がある。",
       "The text on the left of the table reads out some sort of poem stanza...": "デスクの左側の文章には何らかの詩の一節が書かれている…",
@@ -1474,8 +1475,8 @@
     },
     "OtherDictionary": {
       "SealDisplayName": "{0}の封印",
-      "Skull": "頭蓋骨",
-      "Mineral": "ミネラル"
+      "SkullDisplayName": "頭蓋骨",
+      "MineralDisplayName": "ミネラル"
     },
     "AchievementTranslations": {
       "tsta_thevision": {
