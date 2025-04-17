@@ -955,7 +955,7 @@
   
       //NOM_OutgoingMsg
       "<![CDATA[<color=green>DO NOT WARP TO OUR SYSTEM AGAIN!</color>]]>": "<![CDATA[<color=green>二度と我々の星系にワープするな！</color>]]>",
-      "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green>もしそうすれば、あなた方もこの異星人と同じ運命を辿ることになる！</color>]]>",
+      "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green>もしそうすれば、あなた方もこの異星人と同じ運命を辿ることになる！</color>]]>&lt;i&gt;&lt;/i&gt;",
   
       //NOM_Recorder
       "AGAPANTHUS: We have been able to get approximate coordinates to where Escall may have warped to.": "AGAPANTHUS:Escallがワープした可能性のある場所のおおよその座標を特定できました。&lt;i&gt;&lt;/i&gt;",
@@ -1355,6 +1355,9 @@
       "There's a picture showing a scratch mark on the dark-ice state. Some text says it's directly behind the lab somewhere.": "暗氷の状態に引っかき傷があることを示すものがある。文章によると、それは研究所の真後ろのどこかにあるという。",
       "Bark says he saw the scratch about 120 meters south of the lab, situated next to a lantern.": "Barkは研究所から南に約120メートル、ランタンの隣に引っかき傷を見たと言った。",
       "I found scratch marks on Distant Enigma's first state.": "隔絶のエニグマの第1状態で引っかき傷を見つけた。",
+      "Bark's Corpse": "Barkの死体",
+      "I found Bark's dead corpse on one of Distant Enigma's other two states...": "隔絶のエニグマの他の2つの状態の1つでBarkの死体を見つけた…",
+      "I can pull out Bark's skull and pick it up.": "Barkの頭蓋骨を引き抜いて拾うことができる。",
   
       //ringedgiant
       "Ringed Giant": "環の巨人",
@@ -1422,7 +1425,7 @@
       "Burning Bombardier Base": "烈火の爆撃手の基地",
       "Base on Burning Bombardier?": "烈火の爆撃手の基地？",
       "Pine said there was a base somewhere on Velvet Vortex's Moon.": "Pineはビロードの息吹の月のどこかに基地があると言っていた。",
-      "There is a base wedged in between two volcanoes on Burning Bombardier.": "烈火の爆撃手の2つの火山の間に挟まれた場所に基地がある。",
+      "There is a base wedged in between two volcanoes on Burning Bombardier.": "烈火の爆撃手の2つの火山の間にはさまれた場所に基地がある。",
       "The Strangers' Inhabitants founded a Ministry of Defense in response to \"anomalies\" like one that just happened.": "流れ者の住人たちはちょうど発生したような“異常”に対応するため、防衛機関を設立した。",
       "The Inhabitants claimed they have made several nuclear warheads for \"Operation Phoenix\".": "住人たちは“作戦フェニックス”のためにいくつかの核弾頭を製造したと主張している。",
       "An anomaly from Dark Bramble caused panic within the system, several inhabitants fearing another loss of their homeworld.": "闇のイバラからの異常が星系内にパニックを引き起こし、何人かの住人は再び故郷を失うことを恐れた。",
