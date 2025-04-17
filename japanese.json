@@ -211,7 +211,7 @@
       //ConversationGhirds1
       "What do you want, four-eyes?": "何が望みだ、四つ目？&lt;i&gt;&lt;/i&gt;",
       "What's that joke you were telling the other one? Can I hear it?": "さっき他の人に話していた冗談って何？聞かせてもらえる？&lt;i&gt;&lt;/i&gt;",
-      "Don't interrupt conversation.": "会話を遮らないでくれ。&lt;i&gt;&lt;/i&gt;",
+      "Don't interrupt conversation.": "会話を続けて。&lt;i&gt;&lt;/i&gt;",
       "A joke? What's that supposed to mean?": "冗談？それはどういう意味だ？&lt;i&gt;&lt;/i&gt;",
       "I just meant like, you know, you could tell me the joke you two were laughing about!": "ただその、あなたたち二人が笑っていた冗談を教えてほしいだけなんだ！&lt;i&gt;&lt;/i&gt;",
       "Listen, blue-skin. The only joke here is whatever backwater planet you puttered over here from. Is it customary there to interrupt important conversations to demand amusement?": "聞け、青肌。ここでの唯一の冗談は、お前がのんびりやってきたような田舎の惑星だ。そこでは重要な会話を中断して娯楽を要求するのが慣習なのか？&lt;i&gt;&lt;/i&gt;",
@@ -220,7 +220,7 @@
       "Okay, I'm sorry. I—": "わかった、ごめん。私は—&lt;i&gt;&lt;/i&gt;",
       "You know, you're not on your grimy, gauche, gurkin-green grassworld dumpster fire anymore. You're in the galaxy at large now.": "お前はもう汚らしく、不器用で、キュウリの緑のような草原の世界のゴミ溜めにはいないんだぞ。お前は今や広大な銀河の中にいるんだ。&lt;i&gt;&lt;/i&gt;",
       "I think there's been a mis—": "何か誤解があるみたいで—&lt;i&gt;&lt;/i&gt;",
-      "You might've been a big fish in your little muck pit—a real hot shot—but now you've gotta come to terms with being the small fry you are. Hike up those rags you call pants and learn some manners.": "お前はお前の小さな泥沼では大きな魚だったかもしれない—本当のホットショット—だが、今はお前が小物であることを受け入れなければならない。お前がズボンと呼ぶぼろ切れを引っ張り上げて、少しは礼儀を学べ。&lt;i&gt;&lt;/i&gt;",
+      "You might've been a big fish in your little muck pit—a real hot shot—but now you've gotta come to terms with being the small fry you are. Hike up those rags you call pants and learn some manners.": "お前はお前の小さな泥沼では大きな魚だったかもしれない—つまり本物のホットショットだ—だが、今はお前が小物であることを受け入れなければならない。お前がズボンと呼ぶぼろ切れを引っ張り上げて、少しは礼儀を学べ。&lt;i&gt;&lt;/i&gt;",
       "Listen, I'm sorry. It's just—": "聞いてくれ、ごめんなさい。ただ—&lt;i&gt;&lt;/i&gt;",
       "Yeah, I bet you are. Now I've got a conversation to finish. Buzz off.": "ああ、そうだろうな。さあ、会話を終わらせなきゃならない。立ち去れ。&lt;i&gt;&lt;/i&gt;",
   
@@ -249,12 +249,12 @@
   
       //LookingDown
       "Is it just me or is there a bug on the stairs?": "気になるの私だけ？それとも階段に虫でもいるの？&lt;i&gt;&lt;/i&gt;",
-      "No, it's just you.": "いいえ、あなたの気のせい。&lt;i&gt;&lt;/i&gt;",
-      "Yes": "はい。",
+      "No, it's just you.": "いや、あなたの気のせいだ。&lt;i&gt;&lt;/i&gt;",
+      "Yes": "ああ。",
       "Aww, I wanted to kill it!": "ああ、それを殺したかったのに！&lt;i&gt;&lt;/i&gt;",
       "WHERE? WHERE IS IT?!": "どこ？どこにいるの？！&lt;i&gt;&lt;/i&gt;",
       "Just kidding!": "冗談だよ！&lt;i&gt;&lt;/i&gt;",
-      "For that, I hope you trip and fall on your way out.": "そのことに関して、あなたが出て行く時に躓いて転ぶことを願うよ。&lt;i&gt;&lt;/i&gt;",
+      "For that, I hope you trip and fall on your way out.": "そのことに関して、あなたが出て行くときに躓いて転ぶことを願うよ。&lt;i&gt;&lt;/i&gt;",
   
       //Musician
       "Don't bother me while I'm performing!": "演奏中に邪魔をしないでくれ！&lt;i&gt;&lt;/i&gt;",
@@ -269,7 +269,7 @@
       "Well, you can start at our Observation Deck somewhere on this side of the plateau, and from there you should explore the other planets. I'd feel much more comfortable with you exploring those places instead.": "まあ、高原のこちら側のどこかにある展望デッキから始めて、そこから他の惑星を探索するといい。あなたがそういう場所を探索する方が私はずっと安心だ。&lt;i&gt;&lt;/i&gt;",
       "Alright, thank you!": "わかった、ありがとう！",
       "You're welcome, but I still have my eye on you!": "どういたしまして、それでもまだあなたから目は離さない！&lt;i&gt;&lt;/i&gt;",
-      "Good.": "いいよ。",
+      "Good.": "それでいい。",
   
       //PartySit2
       "Oh heya! You must be that alien our Scientist foresaw during his terraform studies. Welcome!": "おや、こんにちは！あなたは私たちの窮理人がテラフォーミング研究中に予見した異星人に違いない。ようこそ！&lt;i&gt;&lt;/i&gt;",
@@ -282,9 +282,9 @@
       "Anytime, new pal!": "いつでもどうぞ、新しい友達よ！&lt;i&gt;&lt;/i&gt;",
       "Nice to meet ya, my name is Blossom. I'm one of the few of my kind that's not afraid of aliens.": "会えて嬉しい、私の名前はBlossom。私は異星人を怖がらない数少ない仲間の一人だ。&lt;i&gt;&lt;/i&gt;",
       "It's a pleasure meeting you too!": "こちらこそ、お会いできて光栄だ！&lt;i&gt;&lt;/i&gt;",
-      "I think it started hundreds of thousands of years ago when our space program mysteriously disappeared.": "それは何十万年も前に私たちの宇宙計画が謎の消失をしたときから始まったと思う。&lt;i&gt;&lt;/i&gt;",
+      "I think it started hundreds of thousands of years ago when our space program mysteriously disappeared.": "それは何十万年も前に私たちの宇宙プログラムが謎の消失をしたときから始まったと思う。&lt;i&gt;&lt;/i&gt;",
       "Apart from that, I don't really know. All traces of that history are gone, or at least forgotten. Even our historians couldn't figure it out!": "それ以外は、本当にわからない。その歴史のすべての痕跡は消えてしまったか、少なくとも忘れられてしまった。私たちの歴史家でさえ解明できなかった！&lt;i&gt;&lt;/i&gt;",
-      "However, members of the new space program have claimed to have seen strange iron bases on most of the other planets. Maybe it's worth a gander?": "でも、新しい宇宙計画のメンバーは、他のほとんどの惑星に奇妙な鉄の基地を見たと主張してる。ひょっとしたら見てみる価値があるかも？&lt;i&gt;&lt;/i&gt;",
+      "However, members of the new space program have claimed to have seen strange iron bases on most of the other planets. Maybe it's worth a gander?": "でも、新しい宇宙プログラムのメンバーは、他のほとんどの惑星に奇妙な鉄の基地を見たと主張してる。ひょっとしたら見てみる価値があるかも？&lt;i&gt;&lt;/i&gt;",
       "All in all, I think we're all just scared of losing our home again, but we were the ones that took it away in the first place.": "結局のところ、私たちは皆、再び故郷を失うことを恐れているのだと思う。でも、そもそもそれを奪ったのは私たち自身だったのに。&lt;i&gt;&lt;/i&gt;",
   
       //ScientistDescendantIntro
@@ -297,7 +297,7 @@
       "B-but...": "で、でも…",
       "No buts! Go back to your homeland, and don't mess with us!": "でもじゃない！あなたの故郷に帰れ、そして私たちに関わらないでくれ！&lt;i&gt;&lt;/i&gt;",
       "Like I'd tell an alien my personal information! That's just asking for death!": "異星人に個人情報を教えるわけがない！それは死を求めるようなものだ！&lt;i&gt;&lt;/i&gt;",
-      "You're on our home turf, and we're not going to risk you ruining our utopia!": "ここは私たちの地元だ、そしてあなたに私たちのユートピアを台無しにするリスクを負わせるつもりはない！&lt;i&gt;&lt;/i&gt;",
+      "You're on our home turf, and we're not going to risk you ruining our utopia!": "ここは私たちの地元だ、そしてあなたに私たちの理想郷を台無しにするリスクを負わせるつもりはない！&lt;i&gt;&lt;/i&gt;",
       "Why should I trust you? Are you going to kidnap me?": "なぜあなたを信用すべきなんだ？私を誘拐でもするつもりか？&lt;i&gt;&lt;/i&gt;",
       "The universe is dying, we have no choice but to activate The Eye!": "宇宙は死にかけている、私たちには眼を起動する以外に選択肢がない！&lt;i&gt;&lt;/i&gt;",
       "The Eye? That vortex thing? I'd rather die here on my homeworld!": "眼？あの渦のことか？私はむしろここ、故郷で死んだ方がマシだ！&lt;i&gt;&lt;/i&gt;",
@@ -356,7 +356,7 @@
       "Oh yeah, I'm quite aware. We're all choosing to die in peace, just ask everyone, they'll all say the same thing.": "ああ、十分承知してるよ。私たちは皆、平和に死ぬことを選んでいる。誰に聞いても同じことを言うだろう。&lt;i&gt;&lt;/i&gt;",
       "Also, I'm working on something to make sure we're not forgotten.": "それに、私らが忘れられないようにするためのものを作っている。&lt;i&gt;&lt;/i&gt;",
       "Oh there's plenty of places to explore in this star system!": "ああ、この星系には探索する場所がたくさんある！&lt;i&gt;&lt;/i&gt;",
-      "The motto for the space program is, \"From the crimson gale, to the burning dune, we watch the skies from our home moon\".": "宇宙プログラムの標語は“真紅の強風から燃える砂丘まで、私たちは故郷である月から空を見守る”というものだ。&lt;i&gt;&lt;/i&gt;",
+      "The motto for the space program is, \"From the crimson gale, to the burning dune, we watch the skies from our home moon\".": "宇宙プログラムの標語は“真紅の強風から燃える砂丘まで、我々は故郷である月から空を見守る”というものだ。&lt;i&gt;&lt;/i&gt;",
       "For starters, if you can use signal detection technology, I'd follow the radio signals of our friends out in space right now.": "まず始めに、もし信号検出技術が使えるなら、今宇宙にいる私の友人らの無線信号を追跡するといいだろう。&lt;i&gt;&lt;/i&gt;",
       "They've been dwelling on those planets for quite a while, so they might know a thing or two.": "彼らはかなり長い間それぞれの惑星に住んでるから、一つ二つは知っているかもしれない。&lt;i&gt;&lt;/i&gt;",
       "Alright, thanks for the info!": "わかった、情報ありがとう！&lt;i&gt;&lt;/i&gt;",
@@ -378,7 +378,7 @@
   
       //StageSit3
       "Never gets old, huh?": "よく飽きないよね？&lt;i&gt;&lt;/i&gt;",
-      "OBSERVATION 1: Yearly checkup on all the planets! Everything's OK, the desert's still deadly on its sun-facing side, the crimson stormy planet is still brewing, and the fourth continues to act mysteriously, changing its form each view.": "観察1:全惑星の年次点検！すべて順調。砂漠はまだ太陽面が致死的で、真紅の嵐の惑星はまだ醸成中、そして第4惑星は依然として謎めいた行動を続け、見るたびに形を変えている。&lt;i&gt;&lt;/i&gt;",
+      "OBSERVATION 1: Yearly checkup on all the planets! Everything's OK, the desert's still deadly on its sun-facing side, the crimson stormy planet is still brewing, and the fourth continues to act mysteriously, changing its form each view.": "観察1:全惑星の年次点検！すべて順調。砂漠はまだ太陽面が致死的で、真紅の嵐の惑星は未だ吹き荒れ、そして第4惑星は依然として謎めいた行動を続け、見るたびに形を変えている。&lt;i&gt;&lt;/i&gt;",
       "OBSERVATION 2: The strange base on the volcanic moon shows itself yet again. Why are these buildings there? Could they be from the old space program all those years ago?": "観察2:火山の月にある奇妙な基地がまた姿を現した。なぜそこに建物があるのか？それらはずっと前の古い宇宙プログラムからのものなのだろうか？&lt;i&gt;&lt;/i&gt;",
       "OBSERVATION 3: The universe is about to die. Our neighbor star where our ancestors' old ship lies, it will die 11 minutes before our star dies. We have plenty of time to leave, but we don't want to leave home. We'd rather die with it, unlike our ancestors did.": "観察3:宇宙は死にかけている。私たちの祖先の古い船がある隣の星系の星は、私たちの星が死ぬ11分前に死ぬだろう。去る時間は十分あるが、私たちは故郷を離れたくない。私たちの祖先とは違い、私たちはむしろそれと共に死にたい。&lt;i&gt;&lt;/i&gt;",
   
@@ -864,7 +864,7 @@
       "Anglerfish 101: To evade an anglerfish, use diagonal thrusting power. You can also avoid being chased if you stop thrusting right when you see it moving, or hear it grunt. It might just coast right past you instead of chase you.": "アンコウ101:アンコウをよけるには対角方向にスラスターを使うことだ。また、アンコウの動きが見えたりうなり声が聞こえたりしたらすぐにスラスターを止めることだ。そうすれば追いかけられないで済む。そのまま通り過ぎてしまうかもしれない。&lt;i&gt;&lt;/i&gt;",
   
       //Ernesto
-      "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.": "惑星メサに由来するアンコウはこの星系で最も丈夫な生物の1つである。この水槽にはオスのアンコウがおり、メスより10分の1の大きさである。オスは常に非常に空腹であるとともに、常に番となるメスを探している。&lt;i&gt;&lt;/i&gt;",
+      "Originating from the mesa planet, Anglerfish are some of this star system's toughest organisms. In this tank is a male Anglerfish, which are ten times smaller than a female. Males are always very hungry, and are always looking for a female to latch onto.": "台地型惑星に由来するアンコウはこの星系で最も丈夫な生物の1つである。この水槽にはオスのアンコウがおり、メスより10分の1の大きさである。オスは常に非常に空腹であるとともに、常に番となるメスを探している。&lt;i&gt;&lt;/i&gt;",
   
       //Geswaldo
       "Jellyfish are native to this planet, and typically swim on the top layers of its subsurface ocean, while the anglerfish lurk at the bottom. They are typically peaceful, but don't touch them anywhere but the cap of their head.": "クラゲはこの惑星の固有種であり、アンコウが海底に潜むのに対し、クラゲは通常は海面付近を泳ぐ。基本的に穏やかだが、頭頂部以外に触れることはできない。&lt;i&gt;&lt;/i&gt;",
@@ -1113,7 +1113,7 @@
       "The text on the right points out that the Bramble Plant started its growth from the North Pole": "右側の文章はイバラ植物が北極から成長し始めたことを指摘している。",
       "Bio Experiments": "生物実験",
       "I found a tank containing an Anglerfish and a Jellyfish.": "アンコウとクラゲが入っているタンクを見つけた。",
-      "The observations made by the inhabitants reveal that Anglerfish were once part of Ember Twin, and that the small ones are typically males looking for mates. No wonder why it latched onto one of our ships!": "この住人の観察によると、アンコウは燃え盛る双子星の一部であり、小型のものは主に番を探しているオスである。私たちの探査艇にくっついたのも不思議ではない！",
+      "The observations made by the inhabitants reveal that Anglerfish were once part of Ember Twin, and that the small ones are typically males looking for mates. No wonder why it latched onto one of our ships!": "この住人の観察によると、アンコウは燃え盛る双子星に由来し、小型のものは主に番を探しているオスである。私たちの探査艇にくっついたのも不思議ではない！",
       "It also appears that Jellyfish are actually native to the frozen planet that became Dark Bramble, and eventually both species lived together in its subsurface ocean.": "また、実はクラゲは闇のイバラとなった氷の惑星に元々生息しており、やがて両方の種がその海の下で共存していたようだ。",
       "Bramble Research Lab": "イバラ研究所",
       "Locked Building": "閉ざされた建物",
@@ -1175,7 +1175,7 @@
       "Velvet Vortex Seal": "ビロードの息吹の封印",
       "Crimson Giant Socket?": "真っ赤な巨星のソケット？",
       "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a crimson gas giant.": "環の巨人で放棄された構造物を見つけた。そのスロットの一つには真っ赤なガス巨星が描かれていた。",
-      "I found a square piece of metal under the ocean. It looks like it fits in the structure...": "海の底で四角い金属片を見つけた。構造物にぴったり合いそうだ…",
+      "I found a square piece of metal under the ocean. It looks like it fits in the structure...": "海の底で正方形の金属片を見つけた。構造物にぴったり合いそうだ…",
       "When I put the seal in the structure, it gave me a symbol.": "封印を構造物にはめると、シンボルが表示された。",
       "Velvet Vortex Campsite": "ビロードの息吹のキャンプ地",
       "Velvet Vortex Campsite?": "ビロードの息吹のキャンプ地？",
@@ -1208,8 +1208,8 @@
       "Once the atmosphere burns out in 23 minutes, I can now safely walk the sun-facing side without dying!": "23分後に大気が燃え尽きると、太陽に面するところを死なずに安全に歩けるようになる！",
       "Sizzling Sands Seal": "焼けつく砂の封印",
       "Desert Planet Socket?": "熱砂惑星のソケット？",
-      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a desert planet.": "環の巨人で放棄された構造物を見つけた。そのスロットの一つには砂漠惑星が描かれていた。",
-      "I found a square piece of metal on the sun-side of Sizzling Sands. It looks like it fits in the structure...": "焼けつく砂の太陽に面するところで四角い金属片を見つけた。構造物にぴったり合いそうだ…",
+      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a desert planet.": "環の巨人で放棄された構造物を見つけた。そのスロットの一つには熱砂惑星が描かれていた。",
+      "I found a square piece of metal on the sun-side of Sizzling Sands. It looks like it fits in the structure...": "焼けつく砂の太陽に面するところで正方形の金属片を見つけた。構造物にぴったり合いそうだ…",
   
       //home
       "Strangers' Homeworld": "流れ者の故郷",
@@ -1336,7 +1336,7 @@
       "Distant Enigma Seal": "隔絶のエニグマの封印",
       "Fourth Planet Socket?": "第4惑星のソケット？",
       "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a rocky, magenta planet. Could this be the fourth planet?": "環の巨人で放棄された構造物を見つけた。そのスロットの一つには紫赤色の岩石惑星が描かれていた。これが第4惑星だろうか？",
-      "I found a square piece of metal under the ice of the third state. It looks like it fits somewhere...": "第3状態の氷の下で四角い金属片を見つけた。どこかに合いそうだ…",
+      "I found a square piece of metal under the ice of the third state. It looks like it fits somewhere...": "第3状態の氷の下で正方形の金属片を見つけた。どこかに合いそうだ…",
       "Quantum Stalls": "量子の小部屋",
       "Distant Enigma Stalls?": "隔絶のエニグマの小部屋？",
       "A few inhabitant-sized stalls are found throughout Distant Enigma. What is their purpose?": "隔絶のエニグマ全体に住人サイズの小部屋がいくつか見つかった。その目的は何だろうか？",
@@ -1374,7 +1374,7 @@
       "Ringed Giant Seal": "環の巨人の封印",
       "Ringed Giant Socket?": "環の巨人のソケット？",
       "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of the Ringed Giant.": "環の巨人で放棄された構造物を見つけた。そのスロットの一つには環の巨人が描かれていた。",
-      "I found a square piece of metal at Bush's Campsite. It looks like it fits in the structure...": "Bushのキャンプ地で四角い金属片を見つけた。構造物にぴったり合いそうだ…",
+      "I found a square piece of metal at Bush's Campsite. It looks like it fits in the structure...": "Bushのキャンプ地で正方形の金属片を見つけた。構造物にぴったり合いそうだ…",
   
       //ringedlab
       "Ringed Laboratory": "環の研究所",
@@ -1431,8 +1431,8 @@
       "This text here mentions a \"seal\", and it will be burned by lava at \"ring time\".": "この文章は“封印”について言及しており、“環の時間”に溶岩によって焼かれるとのことだ。",
       "Burning Bombardier Seal": "烈火の爆撃手の封印",
       "Volcano Moon Socket?": "火山月のソケット？",
-      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "環の巨人で放棄された構造物を見た。スロットの一つには火山月が描かれている。",
-      "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "火山の一つの中に四角い金属片を見つけた。それは構造物にぴったり合いそうだ…"
+      "On the Ringed Giant, I saw an abandoned structure. On one of the slots it had a picture of a VOLCANO gas giant.": "環の巨人で放棄された構造物を見た。スロットの一つには火山月が描かれていた。",
+      "I found a square piece of metal in one of the volcanoes. It looks like it fits in the structure...": "火山の一つの中に正方形の金属片を見つけた。それは構造物にぴったり合いそうだ…"
     },
   
     "UIDictionary": {
